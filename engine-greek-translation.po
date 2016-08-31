@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-08-31 01:52+0300\n"
+"PO-Revision-Date: 2016-09-01 02:01+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -1470,68 +1470,72 @@ msgid ""
 "Set a maximum number of categories freelancers can input in profile and "
 "employers can input when posting project."
 msgstr ""
+"Ορίστε το μέγιστο αριθμό κατηγοριών που μπορούν να εισάγουν οι επαγγελματίες "
+"στο προφίλ τους και οι πελάτες όταν δημοσιεύουν μια εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:902
 msgid "Max Number Of Project Categories"
-msgstr ""
+msgstr "Μέγιστος Αριθμός Κατηγοριών Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:910
 msgid "Maximum Number of Skills"
-msgstr ""
+msgstr "Μέγιστος αριθμός δεξιοτήτων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:913
 msgid ""
 "Set a maximum number of skills freelancers can input in profile and "
 "employers can input when posting project."
 msgstr ""
+"Ορίστε το μέγιστο αριθμό δεξιοτήτων που μπορούν να εισάγουν οι επαγγελματίες "
+"στο προφίλ τους και οι πελάτες όταν δημοσιεύουν μια εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:926
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:942
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:945
 msgid "Project Category Order"
-msgstr ""
+msgstr "Σειρά Κατηγοριών Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:929
 msgid "Order list project categories by."
-msgstr ""
+msgstr "Κατατάξτε τις κατηγορίες εργασίας κατά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:937
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:962
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:938
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:963
 msgid "Slug"
-msgstr ""
+msgstr "Ψευδώνυμο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:939
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:964
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:940
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:965
 msgid "Count"
-msgstr ""
+msgstr "Αριθμός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:951
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:967
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:970
 msgid "Project Type Order"
-msgstr ""
+msgstr "Σειρά Τύπου Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:954
 msgid "Order list project types by."
-msgstr ""
+msgstr "Κατατάξτε τους τύπους εργασίας κατά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:976
 msgid "Disable Comment"
-msgstr ""
+msgstr "Απενεργοποίηση Σχολίων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:979
 msgid "Disable comment on project page."
-msgstr ""
+msgstr "Απενεργοποιήστε τα σχόλια στη σελίδα εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:991
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1013
@@ -1541,7 +1545,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:106
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:412
 msgid "Yes"
-msgstr ""
+msgstr "Ναι"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:992
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1014
@@ -1551,140 +1555,148 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:106
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:412
 msgid "No"
-msgstr ""
+msgstr "Οχι"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:998
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1008
 msgid "Invited To Bid"
-msgstr ""
+msgstr "Πρόσκληση Για Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1001
 msgid ""
 "If you enable this option, freelancers have to be invited first before "
 "bidding a project."
 msgstr ""
+"Αν ενεργοποιήσετε αυτήν την επιλογή, οι επαγγελματίες πρέπει πρώτα να "
+"προσκληθούν πριν καταθέσουν προσφορά για μία εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1020
 msgid "Select Skill From A Predefined List"
-msgstr ""
+msgstr "Επιλογή Δεξιότητας Από Προκαθορισμένη Λίστα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1023
 msgid "Enabling this will force user select skill from the predefined list."
 msgstr ""
+"Η ενεργοποίηση θα αναγκάσει τους χρήστες να επιλέξουν μιά δεξιότητα από "
+"προκαθορισμένη λίστα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1030
 msgid "Switch Skill"
-msgstr ""
+msgstr "Αλλαγή Δεξιότητας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1040
 msgid "Select Country From A Predefined List"
-msgstr ""
+msgstr "Επιλογή Χώρας Από Προκαθορισμένη Λίστα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1043
 msgid ""
 "Users Choose Country From A Drop-Down List Instead Of Entering Country Data."
 msgstr ""
+"Οι χρήστες επιλέγουν χώρα από μία drop-down λίστα αντί να εισάγουν τα "
+"δεδομένα της χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1050
 msgid "Switch Country"
-msgstr ""
+msgstr "Αλλαγή Χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1072
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1081
 msgid "Pay to Bid"
-msgstr ""
+msgstr "Πληρωμή Για Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1075
 msgid "Enabling this will require freelancer pay to bid."
 msgstr ""
+"Η ενεργοποίηση θα αναγκάσει τον επαγγελματία να πρέπει να πληρώσει για να "
+"καταθέσει προσφορά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1089
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1098
 msgid "The free bids number"
-msgstr ""
+msgstr "Αριθμός δωρεάν προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1092
 msgid "Enter the free bids number."
-msgstr ""
+msgstr "Εισάγετε τον αριθμό δωρεάν προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1111
 msgid "Bid Plans"
-msgstr ""
+msgstr "Πλάνα Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1134
 msgid "Url slug"
-msgstr ""
+msgstr "Ψευδώνυμο URL"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1145
 msgid "Enter slug for your Single Project page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για την σελίδα Ατομικής Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1151
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1153
 msgid "Single Project page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο Σελίδας Ατομικής Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1161
 msgid "Project Listing"
-msgstr ""
+msgstr "Ανάρτηση Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1164
 msgid "Enter slug for your Projects listing page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για την σελίδα ανάρτησης Εργασιών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1170
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1172
 msgid "Projects listing page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο σελίδας ανάρτησης Εργασιών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1181
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:70
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:82
 msgid "Project Category"
-msgstr ""
+msgstr "Κατηγορία Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1184
 msgid "Enter slug for your Project Category page"
-msgstr ""
+msgstr "Εισάγετε "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1190
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1192
 msgid "Project Category page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο σελίδας κατηγοριών Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1204
 msgid "Enter slug for your Project Type page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για τη σελίδα τύπου Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1210
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1212
 msgid "Project Type page Slug"
-msgstr ""
+msgstr "Ψευδωνυμο σελίδας τύπου Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1224
 msgid "Enter slug for your User Profile page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για τη σελίδα Προφίλ Χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1230
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1232
 msgid "User Profile page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο σελίδας Προφίλ Χρήστ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1240
 msgid "Profiles Listing"
-msgstr ""
+msgstr "Ανάρτηση Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1243
 msgid "Enter slug for your Profiles listing page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για την σελίδα ανάρτησης Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1249
 msgid " Profiles listing page Slug"
-msgstr ""
+msgstr " Ψευδώνυμο σελίδας ανάρτησης Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1251
 msgid "Profiles listing page Slug"
-msgstr ""
+msgstr " Ψευδώνυμο σελίδας ανάρτησης Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1260
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:55
@@ -1692,111 +1704,114 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:201
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:279
 msgid "Country"
-msgstr ""
+msgstr "Χώρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1263
 msgid "Enter slug for your Country tag page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για την σελίδα εύρεσης Χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1269
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1271
 msgid "Country tag page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο σελίδας εύρεσης Χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1283
 msgid "Enter slug for your Skill tag page"
-msgstr ""
+msgstr "Εισάγετε το ψευδώνυμο για την σελίδα εύρεσης Δεξιοτήτων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1289
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1291
 msgid "Skill tag page Slug"
-msgstr ""
+msgstr "Ψευδώνυμο σελίδας εύρεσης Δεξιοτήτων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1305
 msgid "Captcha"
-msgstr ""
+msgstr "Captcha"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1313
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1322
 msgid "Google reCaptcha"
-msgstr ""
+msgstr "Google reCaptcha"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1316
 msgid ""
 "Enabling this will prevent spammers to register.<a href='https://www.google."
 "com/recaptcha/admin#list' target='_blank' rel='nofollow'>get key</a>"
 msgstr ""
+"Η ενεργοποίηση θα αποτρέψει την εγγραφή spammers.<a href='https://www.google."
+"com/recaptcha/admin#list' target='_blank' rel='nofollow'>λήψη κλειδιού</a>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1329
 msgid "Site key"
-msgstr ""
+msgstr "Κλειδί site"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1331
 msgid "reCaptcha Site Key"
-msgstr ""
+msgstr "reCaptcha Κλειδί Site"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1337
 msgid "Secret key"
-msgstr ""
+msgstr "Μυστικό κλειδί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1339
 msgid "reCaptcha Secret Key"
-msgstr ""
+msgstr "reCaptcha Μυστικό Kλειδί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1352
 msgid "Header Video"
-msgstr ""
+msgstr "Video Header"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1362
 msgid "Video Background Url"
-msgstr ""
+msgstr "URL του video background"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1365
 msgid "Enter your video background url in page-home.php template (.mp4)"
-msgstr ""
+msgstr "Εισάγετε το video background URL στο template page-home.php (.mp4)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1372
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1391
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1411
 msgid "header video url"
-msgstr ""
+msgstr "URL header video"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1375
 msgid "Enter your header video url"
-msgstr ""
+msgstr "Εισάγετε το URL του header video"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1381
 msgid "Video Background Via Youtube ID"
-msgstr ""
+msgstr "Background Video μέσω Youtube ID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1384
 msgid "Enter youtube ID for background video instead of video url"
-msgstr ""
+msgstr "Εισάγετε το youtube ID του background video αντι για το url "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1394
 msgid "Enter youtube video ID"
-msgstr ""
+msgstr "Εισάγετε το youtube video ID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1401
 msgid "Video Background Fallback"
-msgstr ""
+msgstr "Εναλλακτικό video background"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1404
 msgid "Fallback image for video background when browser not support"
 msgstr ""
+"Εναλλακτική εικόνα για background video οταν ο browser δεν το υποστηρίζει"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1414
 msgid "Enter your header video fallback image url"
-msgstr ""
+msgstr "Εισάγετε το URL της εναλλακτικης εικόνας του header video"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1421
 msgid "Project Demonstration"
-msgstr ""
+msgstr "Παρουσίαση εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1434
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1465
 msgid "header left text"
-msgstr ""
+msgstr "Κείμενο αριστερά του header"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1437
 msgid ""
@@ -1849,7 +1864,7 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1515
 msgid "Payment Currency"
-msgstr ""
+msgstr "Νόμισμα πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1554
 msgid "Number Format"
@@ -1863,7 +1878,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1565
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1567
 msgid "Decimal point"
-msgstr ""
+msgstr "Δεκαδικό σημείο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1573
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1574
