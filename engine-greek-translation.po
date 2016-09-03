@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-03 18:09+0300\n"
+"PO-Revision-Date: 2016-09-03 22:37+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -7695,98 +7695,98 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/profile-item.php:30
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/profile-item.php:31
 msgid "View Profile"
-msgstr ""
+msgstr "Δείτε το Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/project-item.php:42
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-item.php:43
 msgid " Bid"
-msgstr ""
+msgstr "Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/project-item.php:48
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-item.php:51
 msgid "Apply"
-msgstr ""
+msgstr "Αιτηθείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/user-bid-item.php:43
 msgid "Bidding"
-msgstr ""
+msgstr "Κατάθεση προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/work-history-item.php:25
 msgid "Bid Budget :"
-msgstr ""
+msgstr "Μπάτζετ προσφοράς :"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/work-history-item.php:39
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:52
 msgid "Job is completed"
-msgstr ""
+msgstr "Η εργασία ολοκληρώθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/work-history-item.php:55
 msgid "Budget :"
-msgstr ""
+msgstr "Μπάτζετ :"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:18
 msgid "Transfer Money To Freelancer"
-msgstr ""
+msgstr "Μεταφέρτε τα Χρήματα στον Ελεύθερο Επαγγελματία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:19
 msgid "Transfer Money"
-msgstr ""
+msgstr "Μεταφέρτε τα χρήματα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:23
 msgid "Money Transfered"
-msgstr ""
+msgstr "Τα χρήματα μεταφέρθηκαν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:32
 msgid "Set as featured"
-msgstr ""
+msgstr "Τοποθέτηση ως προτεινόμενων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:34
 msgid "Remove featured"
-msgstr ""
+msgstr "Απομάκρυνση προτεινόμενων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:38
 msgid "Resolve Dispute"
-msgstr ""
+msgstr "Επιλύω Διαφωνία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:38
 msgid "Resolve"
-msgstr ""
+msgstr "Επιλύω"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-history-item.php:47
 msgid "Job in process"
-msgstr ""
+msgstr "Εργασία σε επεξεργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-history-item.php:59
 msgid "Bid Budget"
-msgstr ""
+msgstr "Mπάτζετ προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-history-item.php:61
 msgid "Earned :"
-msgstr ""
+msgstr "Κέρδη :"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/comment-project.php:19
 msgid "0 Comments"
-msgstr ""
+msgstr "0 σχόλια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/comment-project.php:92
 msgid "The comment is awaiting moderation."
-msgstr ""
+msgstr "Το σχόλιο είναι σε αναμονή ελέγχου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/employer-project-item.php:25
 msgid "Status : Finished<br /> list review here"
-msgstr ""
+msgstr "Κατάσταση: Ολοκληρωμένο<br /> λίστα κριτικών εδώ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/employer-project-item.php:27
 msgid "Status:Working"
-msgstr ""
+msgstr "Κατάσταση: Σε επεξεργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/employer-project-item.php:29
 msgid "Status:Hire opening"
-msgstr ""
+msgstr "Κατάσταση: Άνοιγμα θέσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:42
 msgid "All locations"
-msgstr ""
+msgstr "Όλες οι τοποθεσίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:56
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:59
@@ -7794,60 +7794,60 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:32
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:33
 msgid "Keyword"
-msgstr ""
+msgstr "Λέξη κλειδί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:72
 msgid "Hourly rate"
-msgstr ""
+msgstr "Ωριαία χρέωση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:88
 msgid "Skills Required"
-msgstr ""
+msgstr "Απαιτούμενες εξιότητες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:108
 #, php-format
 msgid "%s Profiles "
-msgstr ""
+msgstr "%s Προφίλς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:109
 #, php-format
 msgid "%s Profile"
-msgstr ""
+msgstr "%s Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:100
 #, php-format
 msgid "%s Projects for you"
-msgstr ""
+msgstr "%s Projects για εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:101
 #, php-format
 msgid "%s Project for you"
-msgstr ""
+msgstr "%s Project για εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/list-bids.php:27
 #, php-format
 msgid "FREELANCER BIDDING (%s)"
-msgstr ""
+msgstr "ΠΡΟΣΦΟΡΑ ΕΛΕΥΘΕΡΟΥ ΕΠΑΓΓΕΛΜΑΤΙΑ (%S)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/list-bids.php:30
 msgid "REPUTATION"
-msgstr ""
+msgstr "ΦΗΜΗ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/list-bids.php:33
 msgid "BID"
-msgstr ""
+msgstr "ΠΡΟΣΦΟΡΑ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/list-bids.php:67
 msgid "ABOUT EMPLOYER"
-msgstr ""
+msgstr "ΣΧΕΤΙΚΑ ΜΕ ΤΟΝ ΕΡΓΟΔΟΤΗ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:9
 msgid "Payment fail, friend"
-msgstr ""
+msgstr "Η πληρωμή απέτυχε, φίλε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:15
 msgid "You are now redirected to submit listing page ... "
-msgstr ""
+msgstr "Μεταφέρεστε για να καταχωρήστε την σελίδα με τις αγγελίες σας …"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:24
@@ -7856,29 +7856,29 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-waiting.php:18
 #, php-format
 msgid "Time left: %s"
-msgstr ""
+msgstr "Απομένων χρόνος: %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:18
 msgid "Post Project"
-msgstr ""
+msgstr "Ανάρτηση Project"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:23
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:52
 msgid "You are now redirected to home page ... "
-msgstr ""
+msgstr "Μεταφέρεστε στην κεντρική σας σελίδα …"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-fail.php:26
 msgid "Home page"
-msgstr ""
+msgstr "Κεντρική σελίδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:11
 msgid "Success, friend"
-msgstr ""
+msgstr "Επιτυχία, φίλε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:19
 #, php-format
 msgid "<p>Your listing has been submitted to our website.</p> %s "
-msgstr ""
+msgstr "<p>Η αγγελία σας έχει καταχωρηθεί στην ιστιοσελίδα μας.</p> %s "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:23
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:44
@@ -7887,19 +7887,21 @@ msgid ""
 "Your payment has been sent successfully but is currently set as 'pending' by "
 "%s. <br/>You will be notified when your listing is approved."
 msgstr ""
+"Η πληρωμή σας έχει αποσταλεί επιτυχώς αλλά βρίσκεται προσωρινά ‘σε αναμονή’ "
+"από  %s. <br/>Θα ειδοποιηθείτε μόλις η αγγελία σας γίνει αποδεκτή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:30
 msgid "You are now redirected to your listing page ... "
-msgstr ""
+msgstr "Μεταφέρεστε στην σελίδα με τις αγγελίες σας …"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-success.php:41
 #, php-format
 msgid "<p>You have purchased successful package: %s.</p> %s "
-msgstr ""
+msgstr "<p> Αγοράσατε επιτυχώς το πακέτο: %s.</p> %s "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-waiting.php:11
 msgid "Waiting, friend"
-msgstr "Σε αναμονή, φίλος"
+msgstr "Σε αναμονή, φίλε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/payment-waiting.php:14
 msgid ""
