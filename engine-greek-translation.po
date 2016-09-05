@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-04 12:49+0300\n"
+"PO-Revision-Date: 2016-09-06 00:44+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -6726,10 +6726,12 @@ msgid ""
 "By creating an account, you agree to our <a href=\"%s\" target=\"_Blank"
 "\">Term of Use and Privacy policy</a>"
 msgstr ""
+"Δημιουργώντας λογαριασμό, συμφωνείτε στους <a href=\"%s\" target=\"_Blank"
+"\">Όρους Χρήσης και στην πολιτική Απορρήτου μας</a>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:108
 msgid "You have account ? Click here !"
-msgstr ""
+msgstr "Έχετε λογαριασμό? Πατήστε εδώ !"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:112
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:157
@@ -6740,11 +6742,11 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:169
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:217
 msgid "You can also sign in by:"
-msgstr ""
+msgstr "Μπορείτε να συνδεθείτε επίσης από:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:140
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Ξεχάσατε τον κωδικό σας?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:142
 msgid "SIGN IN"
@@ -6753,19 +6755,19 @@ msgstr "ΣΥΝΔΕΣΗ"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:149
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:219
 msgid "New? Click here to become a member"
-msgstr ""
+msgstr "Νέος? Πατήστε εδώ για να γίνετε μέλος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:176
 msgid "Plus"
-msgstr ""
+msgstr "Επιπλέον"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:206
 msgid "Enter username or email"
-msgstr ""
+msgstr "Εισάγετε το username ή το email σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:209
 msgid "Login Your Account"
-msgstr ""
+msgstr "Συνδεθείτε στο Λογαριασμό σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:212
 msgid "SUBMIT"
@@ -6834,26 +6836,30 @@ msgid ""
 "<p class=\"noti-update\">There is a pending change of the email to %1$s. <a "
 "href=\"%2$s\">Cancel</a></p>"
 msgstr ""
+"<p class=\"noti-update\">Υπάρχει μια εκκρεμούσα αλλαγή του email σε %1$s. <a "
+"href=\"%2$s\">Άκυρο</a></p>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:103
 msgid ""
 "<i class=\"fa fa-warning\"></i> You must complete your profile to do any "
 "activities on site"
 msgstr ""
+"<i class=\"fa fa-warning\"></i> Πρέπει να ολοκληρώσετε το προφίλ σας για να "
+"κάνετε οποιαδήποτε δραστηριότητα στην ιστιοσελίδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:108
 msgid "Your Professional Title"
-msgstr ""
+msgstr "Ο Επαγγαλματικός σας Τίτλος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:114
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:187
 msgid "Your Hourly Rate"
-msgstr ""
+msgstr "Το Ωρομίσθιό σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:118
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:193
 msgid "e.g:30"
-msgstr ""
+msgstr "π.χ:30"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:125
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:201
@@ -6881,76 +6887,77 @@ msgstr "Δεξιότητες (μέγιστο %s)"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:269
 msgid "Receive emails about projects that match your categories"
 msgstr ""
+"Λάβετε emails σχετικά με τις εργασίες που ταιριάζουν με τις κατηγορίες σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:211
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:290
 msgid "Choose country"
-msgstr ""
+msgstr "Επιλέξτε χώρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:225
 msgid "About You"
-msgstr ""
+msgstr "Σχετικά με εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:227
 msgid "About"
-msgstr ""
+msgstr "Σχετικά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:230
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:315
 msgid "Your Experience"
-msgstr ""
+msgstr "Η Εμπειρία σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:242
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:333
 msgid "Your Portfolio"
-msgstr ""
+msgstr "Το Χαρτοφυλλάκιό σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:264
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:365
 msgid "Current bids"
-msgstr ""
+msgstr "Τρέχουσες προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:284
 msgid "Your Worked History and Reviews"
-msgstr ""
+msgstr "Το Ιστορικό Εργασίας σας και οι Αξιολογήσεις σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:325
 msgid "Your Old Password"
-msgstr ""
+msgstr "Ο Παλαιός σας Κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:326
 msgid "Old password"
-msgstr ""
+msgstr "Παλαιός κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:329
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-reset-pass.php:10
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:20
 msgid "Your New Password"
-msgstr ""
+msgstr "Ο Νέος σας Κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:330
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-reset-pass.php:11
 msgid "New password"
-msgstr ""
+msgstr "Νέος κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:333
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-reset-pass.php:14
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:25
 msgid "Retype New Password"
-msgstr ""
+msgstr "Ξαναπληκτρολογήστε Νέο Κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:334
 msgid "Retype again"
-msgstr ""
+msgstr "Πληκτρολογήστε ξανά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:337
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:114
 msgid "Change"
-msgstr ""
+msgstr "Αλλάξτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-reset-pass.php:15
 msgid "Retype New password"
-msgstr ""
+msgstr "Ξαναπληκτρολογήστε τον Νέο κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-submit-project.php:66
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-submit-project.php:66
@@ -6959,62 +6966,64 @@ msgid ""
 "By posting your project, you agree to our <a href=\"%s\" target=\"_Blank"
 "\">Term of Use and Privacy policy</a>"
 msgstr ""
+"Ανεβάζοντας την εργασίας σας, συμφωνείτε στους <a href=\"%s\" target=\"_Blank"
+"\">Όρους Χρήσης και στην πολιτική Απορρήτου μας</a>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:49
 #, php-format
 msgid "<span class=\"number\">%d</span>Comment"
-msgstr ""
+msgstr "<span class=\"number\">%d</span>Σχόλιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:51
 #, php-format
 msgid "<span class=\"number\">%d</span>Comments"
-msgstr ""
+msgstr "<span class=\"number\">%d</span>Σχόλια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:58
 #, php-format
 msgid "<span class=\"number\">%d</span> bid"
-msgstr ""
+msgstr "<span class=\"number\">%d</span> προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:60
 #, php-format
 msgid "<span class=\"number\">%d</span> bids"
-msgstr ""
+msgstr "<span class=\"number\">%d</span> προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:68
 #, php-format
 msgid "Avg Bids(%s)"
-msgstr ""
+msgstr "Μέσος όρος Προσφορών (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:74
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail-info.php:62
 msgid "Open"
-msgstr ""
+msgstr "Άνοιξε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:74
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail-info.php:69
 #, php-format
 msgid "%s left"
-msgstr ""
+msgstr "%s ακόμα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:115
 msgid "Delete this bidding"
-msgstr ""
+msgstr "Διαγράψτε αυτήν την προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:127
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:81
 msgid "Bid "
-msgstr ""
+msgstr "Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:132
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:85
 msgid "Opening"
-msgstr ""
+msgstr "Άνοιγμα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:149
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:103
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:104
 msgid "Discontinue"
-msgstr ""
+msgstr "Διακόψτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:163
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:56
@@ -7022,44 +7031,44 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/user-bid-item.php:19
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/user-bid-item.php:50
 msgid "Review job"
-msgstr ""
+msgstr "Αξιολογήστε την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:173
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:174
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:125
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:126
 msgid "Draft"
-msgstr ""
+msgstr "Πρόχειρο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:176
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:128
 msgid "Trash"
-msgstr ""
+msgstr "Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:197
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-workspaces.php:149
 msgid "Back To Project Page"
-msgstr ""
+msgstr "Πίσω στην Σελίδα Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:200
 msgid "Open Workspace "
-msgstr ""
+msgstr "Ανοίξτε Περιβάλλον Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:231
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail-content.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-report.php:194
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-workspaces.php:155
 msgid "Project description:"
-msgstr ""
+msgstr "Περιγραφή εργασίας:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:238
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail-content.php:32
 msgid "Skills required:"
-msgstr ""
+msgstr "Απαιτούμενες δεξιότητες:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:252
 msgid "Attachment:"
-msgstr ""
+msgstr "Επισυναπτόμενο:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:288
 #, php-format
@@ -7087,104 +7096,106 @@ msgstr "%d Σχόλια"
 #, php-format
 msgid "You must <a href=\"%s\">login</a> to bid on this project"
 msgstr ""
+"Πρέπει <a href=\"%s\">login</a> να κάνετε προσφορά για αυτήν την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:8
 msgid "Login page"
-msgstr ""
+msgstr "Σελίδα σύνδεσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-bid.php:20
 msgid "Oops, You must be invited to bid this project"
 msgstr ""
+"Ουπς, Πρέπει να προσκληθείτε για να κάνετε προσφορά για αυτήν την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:17
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-bid.php:13
 msgid "Set your bid:"
-msgstr ""
+msgstr "Τοποθετήστε την προσφορά σας:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:28
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-bid.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step3.php:47
 msgid "Deadline"
-msgstr ""
+msgstr "Προθεσμία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:32
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-bid.php:41
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step3.php:58
 msgid "week"
-msgstr ""
+msgstr "εβδομάδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-bid-project.php:39
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-bid.php:50
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step3.php:72
 msgid "Notes"
-msgstr ""
+msgstr "Σημειώσεις"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-review-project.php:9
 msgid "Rate for this profile"
-msgstr ""
+msgstr "Βαθμολογία για αυτό το προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/form-review-project.php:15
 msgid "Message review profile "
-msgstr ""
+msgstr "Μήνυμα αξιολόγησης προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/modal-add-portfolio.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:12
 msgid "Add item for your Portfolio"
-msgstr ""
+msgstr "Προσθέστε εργασία στον χαρτοφυλάκιό σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/modal-add-portfolio.php:22
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:22
 msgid "ADD IMAGE"
-msgstr ""
+msgstr "ΠΡΟΣΘΕΣΤΕ ΕΙΚΟΝΑ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/modal-add-portfolio.php:29
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:30
 msgid "Portfolio Title"
-msgstr ""
+msgstr "Τίτλος Χαρτοφυλακίου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/modal-add-portfolio.php:34
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:35
 msgid "Select Skill"
-msgstr ""
+msgstr "Επιλέξτε δεξιότητα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/modal-add-portfolio.php:51
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:62
 msgid "Add item"
-msgstr ""
+msgstr "Προσθέστε εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/post-item.php:31
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/post-item.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/post-item.php:31
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-item.php:45
 msgid "READ MORE"
-msgstr ""
+msgstr "ΔΙΑΒΑΣΤΕ ΠΑΡΑΚΑΤΩ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/report-item.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:74
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/report-item.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:123
 msgid "Attachment"
-msgstr ""
+msgstr "Επισυναπτόμενο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/report-item.php:56
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-accept-bid.php:30
 msgid "You are about to accept this bid for"
-msgstr ""
+msgstr "Πρόκειται να αποδεχτείτε την προσφορά για"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/report-item.php:59
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-accept-bid.php:33
 msgid "You have to pay"
-msgstr ""
+msgstr "Πρέπει να πληρώσετε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/report-item.php:69
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-accept-bid.php:43
 msgid "Total"
-msgstr ""
+msgstr "Σύνολο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:21
 msgid "Posted by "
-msgstr ""
+msgstr "Αναρτημένη από"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:38
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/user-bid-item.php:67
@@ -7193,11 +7204,11 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/user-bid-item.php:80
 #, php-format
 msgid "Avg Bid (%s)"
-msgstr ""
+msgstr "Μέση προσφορά (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:52
 msgid "CANCEL"
-msgstr ""
+msgstr "ΚΛΕΙΣΙΜΟ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/work-history-item.php:23
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/work-history-item.php:58
@@ -7209,7 +7220,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-history-item.php:52
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:62
 msgid "Job is closed"
-msgstr ""
+msgstr "Η εργασία έκλεισε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/work-history-item.php:25
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/work-history-item.php:62
@@ -7218,30 +7229,30 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/work-history-item.php:43
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:64
 msgid "Job is open"
-msgstr ""
+msgstr "Η εργασία είναι ανοιχτή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history-item.php:48
 msgid "Job is process"
-msgstr ""
+msgstr "Η εργασία είναι σε επεξεργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:26
 #, php-format
 msgid "History (%s)"
-msgstr ""
+msgstr "Ιστορικό (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:34
 #, php-format
 msgid "Portfolio (%s)"
-msgstr ""
+msgstr "Χαρτοφυλάκιο (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:36
 #, php-format
 msgid "Portfolios (%s)"
-msgstr ""
+msgstr "Χαρτοφυλάκια (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:49
 msgid "Works History and Reviews"
-msgstr ""
+msgstr "Ιστορικό και Αξιολόγηση Εργασιω΄ν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:54
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:55
@@ -7250,69 +7261,69 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history.php:65
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history.php:66
 msgid "Select a status"
-msgstr ""
+msgstr "Επιλέξτε κατάσταση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-item.php:38
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-item.php:61
 msgid "In Process"
-msgstr ""
+msgstr "Σε επεξεργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-not-item.php:7
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:20
 msgid "There are no bids yet."
-msgstr ""
+msgstr "Δεν υπάρχουν προσφορές ακόμα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-not-item.php:10
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:24
 msgid "There are no bids yet. Be the first one now!"
-msgstr ""
+msgstr "Δεν υπάρχουν προσφορές ακόμα. Στείλτε πρώτος τώρα!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-not-item.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:42
 msgid "This project is pending"
-msgstr ""
+msgstr "Η εγασία βρίσκεται σε αναμονή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-not-item.php:19
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:43
 msgid "This project has been archived"
-msgstr ""
+msgstr "Η εργασία αρχειοθετήθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-not-item.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:44
 msgid "This project has been rejected"
-msgstr ""
+msgstr "Η εργασία απορρίφθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/user-bid-item.php:56
 #, php-format
 msgid "<span class=\"number\">%s</span> Bids"
-msgstr ""
+msgstr "<span class=\"number\">%s</span> Προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/user-bid-item.php:58
 msgid "<span class=\"number\">1</span> Bid"
-msgstr ""
+msgstr "<span class=\"number\">1</span> Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/work-history.php:52
 #, php-format
 msgid "Posted Projects (%s)"
-msgstr ""
+msgstr "Αναρτημένες Εργασίες (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/work-history.php:54
 #, php-format
 msgid "Works History (%s)"
-msgstr ""
+msgstr "Ιστορικό Εργασιών (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:43
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:23
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:18
 msgid "Already have an account?"
-msgstr ""
+msgstr "Έχετε ήδη λογαριασμό?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:43
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:17
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:23
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:18
 msgid "Login"
-msgstr ""
+msgstr "Συνδεθείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:57
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:60
@@ -7320,7 +7331,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:34
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:37
 msgid "Enter first name"
-msgstr ""
+msgstr "Εισάγετε μικρό όνομα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:68
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:71
@@ -7328,7 +7339,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:45
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:48
 msgid "Enter last name"
-msgstr ""
+msgstr "Εισάγετε επώνυμο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:83
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:86
@@ -7341,44 +7352,44 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:28
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:131
 msgid "Enter username"
-msgstr ""
+msgstr "Εισάγετε username"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:94
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:44
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:70
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:36
 msgid "Email address"
-msgstr ""
+msgstr "Email διεύθυνση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:94
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:70
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:36
 msgid "Enter a email"
-msgstr ""
+msgstr "Εισάγετε email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:97
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:73
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:39
 msgid "Your email address"
-msgstr ""
+msgstr "Η email διεύθυνσή σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:105
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:81
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:47
 msgid "I'm looking to:"
-msgstr ""
+msgstr "Ενδιαφέρομαι για:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:105
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:81
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:47
 msgid "Choose type account"
-msgstr ""
+msgstr "Επιλέξτε τύπο λογαριασμού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:122
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:92
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:58
 msgid "Enter password"
-msgstr ""
+msgstr "Εισάγετε κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:133
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-reset-pass.php:59
@@ -7386,32 +7397,32 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:103
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:69
 msgid "Retype password"
-msgstr ""
+msgstr "Ξαναγράψτε τον κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:171
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:143
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:94
 msgid "Create account"
-msgstr ""
+msgstr "Δημιουργήστε λογαριασμό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:198
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:179
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:122
 msgid "You do not have an account?"
-msgstr ""
+msgstr "Δεν έχετε λογαριασμό?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:198
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:179
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:122
 msgid "Register"
-msgstr ""
+msgstr "Εγγραφείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:205
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:185
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:128
 msgid "Enter Username"
-msgstr ""
+msgstr "Εισάγετε Username"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:216
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:18
@@ -7419,280 +7430,289 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step2.php:196
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:139
 msgid "Enter Password"
-msgstr ""
+msgstr "Εισάγετε Κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-list-testimonial.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-testimonials.php:14
 #, php-format
 msgid "%s Testimonials for you"
-msgstr ""
+msgstr "%s Συστάσεις για εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-list-testimonial.php:34
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-testimonials.php:15
 #, php-format
 msgid "%s testimonial for you"
-msgstr ""
+msgstr "%s σύσταση για εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:71
 #, php-format
 msgid " %s's Profile "
-msgstr ""
+msgstr " %s's προφίλ "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:123
 msgid "Your Full Name"
-msgstr ""
+msgstr "Το Ονοματεπώνυμό σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:124
 msgid "Enter Full Name"
-msgstr ""
+msgstr "Εισάγετε Ονοματεπώνυμο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:132
 msgid "Enter address"
-msgstr ""
+msgstr "Εισάγετε διεύθυνση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:140
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:45
 msgid "Enter email"
-msgstr ""
+msgstr "Εισάγετε email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:157
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:351
 msgid "Save Details"
-msgstr ""
+msgstr "Αποθηκεύστε τις Πληροφορίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:170
 msgid ""
 "<i class=\"fa fa-warning\"></i>You must complete your profile to do any "
 "activities on site"
 msgstr ""
+"<i class=\"fa fa-warning\"></i>Πρέπει να ολοκληρώσετε το προφίλ σας για να "
+"κάνετε οποιαδήποτε δραστηριότητα στην ιστιοσελίδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:176
 msgid "Professional Title"
-msgstr ""
+msgstr "Επαγγελματικός Τίτλος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:181
 msgid "e.g: Wordpress Developer"
-msgstr ""
+msgstr "π.χ: Προγραμματιστής Wordpress"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:226
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:40
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:79
 #, php-format
 msgid " Skills (max is %s)"
-msgstr ""
+msgstr "Δεξιότητες (μέγιστο %s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:277
 msgid "Your Country"
-msgstr ""
+msgstr "Η χώρα σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:307
 msgid "About you"
-msgstr ""
+msgstr "Σχετικά με εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:319
 msgid "year(s)"
-msgstr ""
+msgstr "χρόνος(ια)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:406
 msgid "Available for hire?"
-msgstr ""
+msgstr "Διαθέσιμος για πρόσληψη?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:419
 msgid ""
 "Select \"Yes\" to display a \"Hire me\" button on your profile allowing "
 "potential clients and employers to contact you."
 msgstr ""
+"Επιλέξτε “Ναι” για να προσθέσετε στο προφίλ σας το κουμπί “Προσλάβετέ με” "
+"επιτρέποντας πιθανούς πελάτες να έρθουν σε επαφή μαζί σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:430
 msgid "You have not confirmed your email yet, please check out your mailbox."
 msgstr ""
+"Δεν έχετε επιβεβαιώσει το email σας ακόμα, παρακαλείτε να ελέγξετε την "
+"αλληλογραφία σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:432
 msgid "Request confirm email."
-msgstr ""
+msgstr "Ζητήστε email επιβεβαίωσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:456
 msgid "Create Your Team"
-msgstr ""
+msgstr "Δημιουργήστε την Ομάδα σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:461
 msgid "Log Out"
-msgstr ""
+msgstr "Αποσυνδεθείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-reset-pass.php:42
 msgid "New Password"
-msgstr ""
+msgstr "Νέος κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-reset-pass.php:46
 msgid "Enter new password"
-msgstr ""
+msgstr "Εισάγετε νέο κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-unsupported.php:21
 msgid "Unsupported Browsers"
-msgstr ""
+msgstr "Μη υποστηριζόμενοι φυλλομετρητές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/recharge.php:24
 msgid "Enter amount"
-msgstr ""
+msgstr "Εισάγετε ποσό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/recharge.php:54
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step4.php:14
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:14
 msgid "Select payment method"
-msgstr ""
+msgstr "Επιλέξτε μέθοδο πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/search.php:24
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Αποτέλεσμα Αναζήτησς για: %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:23
 msgid "Simply Drag & Drop"
-msgstr ""
+msgstr "Απλά σύρετε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:37
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:38
 msgid "Select an option"
-msgstr ""
+msgstr "Κάντε μια επιλογή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:10
 msgid "Change your password."
-msgstr ""
+msgstr "Αλλάξτε τον κωδικλο σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:15
 msgid "Old Password"
-msgstr ""
+msgstr "Παλαιός Κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:16
 msgid "Enter your old password"
-msgstr ""
+msgstr "Εισάγετε τον παλαιό σας κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:21
 msgid "Enter your new password"
-msgstr ""
+msgstr "Εισάγετε τον νέο σας κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:26
 msgid "Retype your new password"
-msgstr ""
+msgstr "Πληκτρολογήστε ξανά τον νέο σας κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-change-pass.php:30
 msgid "Change password"
-msgstr ""
+msgstr "Αλλάξτε κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-contact.php:16
 msgid "Private Message!"
-msgstr ""
+msgstr "Προσωπικό Μήνυμα!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-contact.php:22
 msgid "Your message"
-msgstr ""
+msgstr "Το μήνυμά σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-contact.php:29
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-forgot-pass.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-report.php:77
 msgid "Send"
-msgstr ""
+msgstr "Στείλτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:8
 msgid "Edit Project"
-msgstr ""
+msgstr "Επεξεργασία Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:15
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:39
 msgid "Project Title"
-msgstr ""
+msgstr "Τίτλος Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:22
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:50
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step3.php:31
 #, php-format
 msgid "Budget (%s)"
-msgstr ""
+msgstr "Προϋπολογισμός (%s)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:36
 msgid "Skills (max is 5)"
-msgstr ""
+msgstr "Δεξιότητες (μέγιστο 5)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-edit-project.php:81
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:135
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-report.php:85
 msgid "Attach file"
-msgstr ""
+msgstr "Επισυνάψτε αρχείο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-forgot-pass.php:8
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:24
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Ξεχάσατε τον Κωδικό σας?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-forgot-pass.php:13
 msgid "Enter your email here"
-msgstr ""
+msgstr "Είσάγετε το email σας εδώ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-invite.php:31
 msgid "to join your project (choose one or more projects below):"
 msgstr ""
+"για να συνδέσετε την εργασία σας (επιλέξτε μία ή παραπάνω εργασία ακολούθως)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-invite.php:63
 msgid "Create a project now"
-msgstr ""
+msgstr "Δημιουργήστε μια εργασία τώρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:8
 msgid "Welcome back!"
-msgstr ""
+msgstr "Καλώς ήρθατε πίσω!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:13
 msgid "Your Username or Email"
-msgstr ""
+msgstr "Το Username ή Email σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:14
 msgid "Enter Username or Email"
-msgstr ""
+msgstr "Εισάγετε Username ή Email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:11
 msgid "Become our member!"
-msgstr ""
+msgstr "Γίνετε μέλος μας!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:74
 msgid "Sign up"
-msgstr ""
+msgstr "Εγγραφείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-reject.php:7
 #, php-format
 msgid "Reject <span>%s</span>"
-msgstr ""
+msgstr "Απορρίψτε <span>%s</span>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-reject.php:13
 msgid "MESSAGE"
-msgstr ""
+msgstr "ΜΗΝΥΜΑ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:40
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:69
 msgid "You are going to finish this project."
-msgstr ""
+msgstr "Θα ολοκληρώσετε την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:41
 msgid ""
 "Your payment will be sent when the freelancer confirms it has been done."
 msgstr ""
+"Η πληρωμή σας θα σταλεί όταν ο επαγγελματίας επιβεβαιώσει ό,τι έχει "
+"ολοκληρωθεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:50
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:79
 #, php-format
 msgid "Rate for \"%s\""
-msgstr ""
+msgstr "Τιμή για \"%s\""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:55
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:85
 #, php-format
 msgid "Your review about %s"
-msgstr ""
+msgstr "Η αξιολόγησή σας για %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-review.php:70
 #, php-format
 msgid "%s has finish project. You will receive payment after you review him."
-msgstr ""
+msgstr "%s τέλειωσε την εργασία. Θα πληρωθείτε αφού τον αξιολογήσετε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/profile-item.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/profile-item.php:13
