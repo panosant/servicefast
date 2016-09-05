@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-04 12:49+0300\n"
+"PO-Revision-Date: 2016-09-06 00:46+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -4105,7 +4105,7 @@ msgstr "Twitter API"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:32
 msgid "Enabling this will allow users to login via Twitter."
-msgstr ""
+msgstr "Η ενεργοποίηση θα επιτρέψει στους χρήστες να συνδέονται μέσω Twitter."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:39
 msgid "Twitter API "
@@ -4113,19 +4113,19 @@ msgstr "Twitter API"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:46
 msgid "Twitter key "
-msgstr "Κλειδί (key) Τwitter"
+msgstr "Twitter key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:48
 msgid "Twitter Consumer Key"
-msgstr ""
+msgstr "Twitter Consumer Key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:54
 msgid "Twitter secret "
-msgstr ""
+msgstr "Twitter secret"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:56
 msgid "Twitter Consumer Secret"
-msgstr ""
+msgstr "Twitter Consumer Twitter"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:63
 msgid "Facebook API"
@@ -4133,7 +4133,7 @@ msgstr "Facebook API"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:66
 msgid "Enabling this will allow users to login via Facebook."
-msgstr ""
+msgstr "Η ενεργοποίηση θα επιτρέψει στους χρήστες να συνδέονται μέσω Facebook."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:73
 msgid "Facebook API "
@@ -4141,7 +4141,7 @@ msgstr "Facebook API"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:80
 msgid "Facebook key "
-msgstr "Κλειδί (key) Facebook"
+msgstr "Facebook key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:82
 msgid "Facebook Application ID"
@@ -4149,11 +4149,11 @@ msgstr "Facebook Application ID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:88
 msgid "Facebook secret key "
-msgstr ""
+msgstr "Facebook secret key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:90
 msgid "Facebook Secret Key"
-msgstr ""
+msgstr "Facebook Secret Key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:97
 msgid "Google API"
@@ -4161,7 +4161,7 @@ msgstr "API Google"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:100
 msgid "Enabling this will allow users to login via Google."
-msgstr ""
+msgstr "Η ενεργοποίηση θα επιτρέψει στους χρήστες να συνδέονται μέσω Google."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:107
 msgid "Google API "
@@ -4169,90 +4169,92 @@ msgstr "API Google"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:114
 msgid "Google key "
-msgstr ""
+msgstr "Google key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:116
 msgid "Client ID"
-msgstr ""
+msgstr "Client ID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:122
 msgid "Google Secret key "
-msgstr ""
+msgstr "Google Secret Key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:124
 msgid "Google secret key"
-msgstr ""
+msgstr "Google secret key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:131
 msgid "LinkedIn API"
-msgstr ""
+msgstr "API LinkedIn"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:134
 msgid "Enabling this will allow users to login via LinkedIn."
-msgstr ""
+msgstr "Η ενεργοποίηση θα επιτρέψει στους χρήστες να συνδέονται μέσω LinkedIn."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:141
 msgid "LinkedIn API "
-msgstr ""
+msgstr "API LinkedIn"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:148
 msgid "Consumer Key / API Key "
-msgstr ""
+msgstr "Consumer Key / API Key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:150
 msgid "LinkedIn API Key"
-msgstr ""
+msgstr "LinkedIn API Key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:156
 msgid "Consumer Secret / Secret Key "
-msgstr ""
+msgstr "Consumer Secret / Secret Key "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:158
 msgid "LinkedIn secret key"
-msgstr ""
+msgstr "LinkedIn secret key"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:170
 msgid "General setting"
-msgstr ""
+msgstr "Γενικές ρυθμίσεις"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:178
 msgid "Social connect page"
-msgstr ""
+msgstr "Σελίδα σύνδεσης κοινωνικών δικτύων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:181
 msgid ""
 "You can create a new page and paste shortcode [social_connect_page] here"
 msgstr ""
+"Μπορείτε να δημιουργήσετε μια νέα σελίδα και να επικολλήσετε το shortcode "
+"[social_connect_page] εδώ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:188
 msgid "Social connect page url "
-msgstr ""
+msgstr "URL σελίδας σύνδεσης κοινωνικών δικτύων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:190
 msgid "eg:http://enginethemes.com/directoryengine/social-connect"
-msgstr ""
+msgstr "Πχ:http://enginethemes.com/directoryengine/social-connect"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:199
 msgid "Select User roles"
-msgstr ""
+msgstr "Επιλογή ρόλων Χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:202
 msgid "Select the user roles."
-msgstr ""
+msgstr "Επιλέξτε τους ρόλους χρήστη."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:210
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:213
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:214
 msgid "Select user roles"
-msgstr ""
+msgstr "Επιλογή ρόλων χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:235
 msgid "Social login"
-msgstr ""
+msgstr "Σύνδεση μέσω κοινωνικών δικτύων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:236
 msgid "SOCIAL LOGIN"
-msgstr ""
+msgstr "ΣΥΝΔΕΣΗ ΜΕΣΩ ΚΟΙΝΩΝΙΚΩΝ ΔΙΚΤΥΩΝ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:240
 msgid "setup a way for users to login via their socile network accounts"
@@ -4340,7 +4342,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:58
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:77
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:59
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:122
@@ -4360,7 +4362,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:139
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:142
 msgid "Password"
-msgstr ""
+msgstr "Κωδικός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:70
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:58
@@ -4373,15 +4375,15 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:25
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:128
 msgid "Username"
-msgstr ""
+msgstr "Όνομα χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:115
 msgid "author"
-msgstr ""
+msgstr "συγγραφέας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:115
 msgid "subscriber"
-msgstr ""
+msgstr "συνδρομητής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:115
 msgid "editor"
