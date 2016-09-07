@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-07 20:02+0300\n"
+"PO-Revision-Date: 2016-09-07 20:22+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -6365,75 +6365,75 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:15
 msgid "FRE Social Widget"
-msgstr ""
+msgstr "FRE Social Widget"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:42
 msgid "Google+"
-msgstr ""
+msgstr "Google+"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:71
 msgid "Keep in touch"
-msgstr ""
+msgstr "Μείνετε σε επαφή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:75
 msgid "Title:"
-msgstr ""
+msgstr "Τίτλος:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:94
 msgid "Blog Sidebar"
-msgstr ""
+msgstr "Πλευρική Μπάρα ιστιολογίου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:111
 msgid "Page Sidebar"
-msgstr ""
+msgstr "Πλευρική Μπάρα σελίδας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:128
 msgid "Footer 1"
-msgstr ""
+msgstr "Yποσέλιδο 1"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:145
 msgid "Footer 2"
-msgstr ""
+msgstr "Yποσέλιδο 2"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:163
 msgid "Footer 3"
-msgstr ""
+msgstr "Yποσέλιδο 3"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/widgets.php:181
 msgid "Footer 4"
-msgstr ""
+msgstr "Yποσέλιδο 4"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/index.php:24
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/single.php:25
 msgid "Blog"
-msgstr ""
+msgstr "Ιστολόγιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/list-pending.php:36
 msgid "No place found"
-msgstr ""
+msgstr "Δεν βρέθηκε τοποθεσία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/list-portfolios.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/list-portfolios.php:29
 msgid "Add your work"
-msgstr ""
+msgstr "Προθέστε την εργασίας σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/list-posts.php:28
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/list-posts.php:28
 msgid "No posts yet!"
-msgstr ""
+msgstr "Χωρίς αναρτήσεις ακόμα!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/list-user-bids.php:21
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/list-user-bids.php:21
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:277
 msgid "No current bids."
-msgstr ""
+msgstr "Χωρίς τρέχουσες προσφορές."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/list-work-history.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-history-list.php:13
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history.php:59
 #, php-format
 msgid "Work history and Reviews (%d)"
-msgstr ""
+msgstr "Ιστορικό εργασιών και Κριτικές (%d)"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:18
@@ -6443,7 +6443,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:18
 msgid "Type keyword"
-msgstr ""
+msgstr "Πληκτρολογήστε λέξη-κλειδί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:21
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:21
@@ -6453,7 +6453,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:21
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:21
 msgid "Advanced"
-msgstr ""
+msgstr "Προχωρημένα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:28
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:28
@@ -6469,7 +6469,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:11
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:100
 msgid "Category"
-msgstr ""
+msgstr "Κατηγορία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:31
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:31
@@ -6486,7 +6486,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:15
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:105
 msgid "Choose categories"
-msgstr ""
+msgstr "Επιλέξτε κατηγορίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:37
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:37
