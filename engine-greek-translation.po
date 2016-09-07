@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-07 01:42+0300\n"
+"PO-Revision-Date: 2016-09-07 20:02+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-KeywordsList: _e;__;_n;_x\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -6498,12 +6498,12 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:20
 msgid "All categories"
-msgstr ""
+msgstr "Όλες οι κατηγορίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:47
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:120
 msgid "Hourly Rate"
-msgstr ""
+msgstr "Ωρομίσθιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:55
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:78
@@ -6513,7 +6513,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:78
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:70
 msgid "Your Skill"
-msgstr ""
+msgstr "Οι Δεξιότητές σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:57
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:80
@@ -6524,7 +6524,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:72
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:84
 msgid "Type and enter"
-msgstr ""
+msgstr "Πληκτρολογήστε και πατήστε enter"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-fre_profile.php:63
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:86
@@ -6534,7 +6534,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:86
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:78
 msgid "HIDE ADVANCED SEARCH"
-msgstr ""
+msgstr "ΚΡΥΨΤΕ ΤΗΝ ΑΝΑΛΥΤΙΚΗ ΑΝΑΖΗΤΗΣΗ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:54
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:59
@@ -6551,7 +6551,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:51
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-projects.php:56
 msgid "All types"
-msgstr ""
+msgstr "Όλοι οι τύποι"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/archive-project.php:70
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-home.php:62
@@ -6568,57 +6568,57 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:54
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:76
 msgid "Budget"
-msgstr ""
+msgstr "Προϋπολογισμός"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:126
 msgid "Rating"
-msgstr ""
+msgstr "Βαθμολογία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:132
 msgid "Experience"
-msgstr ""
+msgstr "Εμπειρία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:143
 msgid "Projects Worked"
-msgstr ""
+msgstr "Εργασίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:147
 msgid "Total earned"
-msgstr ""
+msgstr "Συνολικά κέρδη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:151
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:73
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/filter-profiles.php:32
 msgid "Location"
-msgstr ""
+msgstr "Περιοχή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:164
 msgid "Project posted"
-msgstr ""
+msgstr "Αναρτημένη Εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:168
 msgid "Total spent "
-msgstr ""
+msgstr "Συνολικά έξοδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:174
 msgid "Hired"
-msgstr ""
+msgstr "Επιλεγμένος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/author.php:185
 msgid "Overview:"
-msgstr ""
+msgstr "Επισκόπηση:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/comments.php:27
 msgid "0 Comment on this article"
-msgstr ""
+msgstr "0 Σχόλια σε αυτό το άρθρο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/comments.php:78
 msgid "Submit Comment"
-msgstr ""
+msgstr "Καταχωρήστε Σχόλιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/comments.php:112
 msgid "&nbsp;&nbsp;|&nbsp;&nbsp; Reply "
-msgstr ""
+msgstr "&nbsp;&nbsp;|&nbsp;&nbsp; Απαντήστε "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:103
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:408
@@ -6626,41 +6626,43 @@ msgid ""
 "Turn on to display an \"Invite me\" button on your profile, allowing "
 "potential employers to suggest projects for you."
 msgstr ""
+"Εμφανήστε στο προφίλ σας το κουμπί “Κάλεσέ με”, επιτρέποντας σε πιθανούς "
+"πελάτες να προτείνουν εργασίες για εσάς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:113
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:77
 msgid "Account Details"
-msgstr ""
+msgstr "Πληροφορίες Λογαριασμού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:120
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:83
 msgid "Profile Details"
-msgstr ""
+msgstr "Πληροφορίες Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:126
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:89
 msgid "Project Details"
-msgstr ""
+msgstr "Πληροφορίες Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:141
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-profile.php:448
 msgid "Change Password"
-msgstr ""
+msgstr "Αλλάξτε Κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:149
 msgid "Log out"
-msgstr ""
+msgstr "Αποσυνδεθείτε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:155
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-login.php:22
 msgid "Sign in"
-msgstr ""
+msgstr "Σύνδεση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:19
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:47
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:2
 msgid "Work"
-msgstr ""
+msgstr "Εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:20
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:34
@@ -6669,12 +6671,12 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:3
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:20
 msgid "Hire"
-msgstr ""
+msgstr "Ανάθεση εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:26
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-register.php:16
 msgid "What are you looking for?"
-msgstr ""
+msgstr "Τι ψάχνετε?"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-auth.php:47
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/page-auth.php:57
