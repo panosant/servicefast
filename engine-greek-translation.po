@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-08 01:32+0300\n"
+"PO-Revision-Date: 2016-09-09 00:26+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -2076,11 +2076,11 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2439
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2457
 msgid "Register Mail"
-msgstr ""
+msgstr "Email Εγγραφής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1848
 msgid "Confirm Mail Template"
-msgstr ""
+msgstr "Επιβεβαίωση Mail Template"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1852
 msgid ""
@@ -2090,7 +2090,7 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1859
 msgid "Confirme Mail"
-msgstr ""
+msgstr "Email Επιβεβαίωσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1869
 msgid "Confirmed Mail Template"
@@ -3227,35 +3227,35 @@ msgstr "Περισσότερες Πληρωμές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-payments.php:176
 msgid "No order found by your query."
-msgstr ""
+msgstr "Δε βρέθηκε παραγγελία για την αναζήτησή σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-payments.php:218
 msgid "Update order successfull."
-msgstr ""
+msgstr "Επιτυχής ενημέρωση παραγγελίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:55
 msgid "Search users..."
-msgstr ""
+msgstr "Αναζήτηση χρηστών..."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:63
 msgid "All Users"
-msgstr ""
+msgstr "Όλοι οι Χρήστες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:78
 msgid "More Users"
-msgstr ""
+msgstr "Περισσότεροι Χρήστες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:91
 msgid "Ban user"
-msgstr ""
+msgstr "Αποκλεισμός χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:96
 msgid "Ban for"
-msgstr ""
+msgstr "Αποκλεισμός για"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:106
 msgid "Reason"
-msgstr ""
+msgstr "Αιτία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:112
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:60
@@ -3271,86 +3271,88 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step2.php:153
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step3.php:87
 msgid "Submit"
-msgstr ""
+msgstr "Υποβολή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:147
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/user-item.php:31
 #, php-format
 msgid "Banned until %s"
-msgstr ""
+msgstr "Αποκλεισμός μέχρι %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:152
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/user-item.php:37
 msgid "Unban this user"
-msgstr ""
+msgstr "Αφαίρεση αποκλεισμού χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:154
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/user-item.php:41
 msgid "Ban this user"
-msgstr ""
+msgstr "Αποκλείστε αυτόν το χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-image.php:51
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-add-portfolio.php:25
 msgid "Browse"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-image.php:55
 msgid "Remove"
-msgstr ""
+msgstr "Αφαίρεση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-image.php:85
 msgid "Removed successfully!"
-msgstr ""
+msgstr "Επιτυχής αφαίρεση!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-image.php:93
 msgid "Removed failed!"
-msgstr ""
+msgstr "Η αφαίρεση απέτυχε!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-language-list.php:68
 msgid "Add a new language"
-msgstr ""
+msgstr "Προσθέστε μια νέα γλώσσα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-language-list.php:70
 msgid "Enter language name"
-msgstr ""
+msgstr "Εισάγετε το όνομα της γλώσσας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-language-list.php:79
 msgid "Language name"
-msgstr ""
+msgstr "Όνομα γλώσσας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-language-list.php:80
 msgid "Enter the language's name"
-msgstr ""
+msgstr "Εισάγετε το όνομα της γλώσσας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-language-list.php:81
 msgid "Add language"
-msgstr ""
+msgstr "Προσθήκη γλώσσας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-map.php:39
 msgid "Enter map address"
-msgstr ""
+msgstr "Εισάγετε τη διεύθυνση στο χάρτη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-switch.php:37
 msgid "Enable"
-msgstr ""
+msgstr "Ενεργοποίηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-switch.php:38
 msgid "Disable"
-msgstr ""
+msgstr "Απενεργοποίηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-translate.php:48
 msgid "Choose a Language"
-msgstr ""
+msgstr "Επιλέξτε μια γλώσσα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/field-translate.php:60
 msgid ""
 "You should save your translation after every 20 strings to make sure they "
 "won't lost "
 msgstr ""
+"Θα πρέπει να αποθηκεύετε την μετάφρασή σας κάθε 20 strings για να "
+"σιγουρευτείτε πως δε θα χαθεί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/list.php:83
 msgid "Are you sure you want to delete this?"
-msgstr ""
+msgstr "Είστε σίγουρος ότι θέλετε να το διαγράψετε;"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:144
 msgid "bad"
@@ -3374,7 +3376,7 @@ msgstr "πανέμορφο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:184
 msgid "Are you sure to archive this?"
-msgstr ""
+msgstr "Είστε σίγουρος ότι θέλετε να το αρχειοθετήσετε;"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:190
 msgid "File extension error"
