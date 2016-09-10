@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-09 00:26+0300\n"
+"PO-Revision-Date: 2016-09-11 02:04+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -2045,11 +2045,11 @@ msgstr "λεπτομέρειες χρήστη που θέλετε να στεί�
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1812
 msgid "member dashboard url "
-msgstr ""
+msgstr "URL πίνακα εργαλείων μέλους"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1813
 msgid "project title, link, details, author"
-msgstr ""
+msgstr "τίτλος, link, λεπτομέρειες, συγγραφέας εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1814
 msgid "activate link is require for user to renew their pass"
@@ -2122,134 +2122,149 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1921
 msgid "Resetpassword Mail"
-msgstr ""
+msgstr "Email Επαναφοράς Κωδικού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1930
 msgid "Ban Mail Template"
-msgstr ""
+msgstr "Template Email Αποκλεισμού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1941
 msgid "Ban Mail"
-msgstr ""
+msgstr "Email Αποκλεισμού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1951
 msgid "Project Related Mail Template"
-msgstr ""
+msgstr "Εmail Template Σχετικής Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1961
 msgid ""
 "Email templates used for project-related event. You can use placeholders to "
 "include some specific content"
 msgstr ""
+"Τα email templates χρησιμοποιούνται για γεγονόντα σχετικά με τις εργασίες. "
+"Μπορείτε να χρησιμοποιήσετε placeholders για να συμπεριλάβετε συγκεκριμένο "
+"περιεχόμενο."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1969
 msgid "New Payment Notification Mail Template"
-msgstr ""
+msgstr "Email Template Ειδοποίησης Νέας Πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1973
 msgid "Send to admin when a freelancer buy a bid package."
 msgstr ""
+"Αποστέλλεται στον διαχειριστή όταν ένας επαγγελματίας αγοράζει ένα πακέτο "
+"προσφορών."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1980
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2000
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2021
 msgid "Inbox Mail"
-msgstr ""
+msgstr "Email Εισερχόμενου Μηνύματος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1989
 msgid "New Message Mail Template"
-msgstr ""
+msgstr "Email Template Νέου Μηνύματος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1993
 msgid "Send to users when he have a new message on workspace."
-msgstr ""
+msgstr "Στέλνεται στους χρήστες όταν έχουν ένα νέο μήνυμα στο χώρο εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2010
 msgid "Inbox Mail Template"
-msgstr ""
+msgstr "Email Template Εισερχόμενου Μηνύματος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2014
 msgid "Send to users when someone contact him."
-msgstr ""
+msgstr "Αποστέλλεται στου χρήστες όταν κάποιος επικοινωνεί μαζί τους."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2031
 msgid "Invite Mail Template"
-msgstr ""
+msgstr "Email Template Πρόσκλησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2035
 msgid "Send to users when someone invite him join a project"
 msgstr ""
+"Αποστέλλεται στους χρήστες όταν κάποιος τους καλεί να συμμετάσχουν σε μία "
+"εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2042
 msgid "Invite Mail"
-msgstr ""
+msgstr "Email Πρόσκλησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2051
 msgid "Cash Notification Mail Template"
-msgstr ""
+msgstr "Email Template Ειδοποίησης Πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2055
 msgid "Send to user cash message when they pay by cash"
-msgstr ""
+msgstr "Αποστέλλεται στους χρήστες όταν πληρώνουν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2062
 msgid "Cash Notification Mail"
-msgstr ""
+msgstr "Email Ειδοποίησης Πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2072
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2083
 msgid "Receipt Mail Template"
-msgstr ""
+msgstr "Email Template Απόδειξης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2077
 msgid "Send to users after they finish a payment"
-msgstr ""
+msgstr "Αποστέλλεται στους χρήστες όταν ολοκληρώσουν μια πληρωμή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2093
 msgid "Publish Mail Template"
-msgstr ""
+msgstr "Email Template Δημοσίευσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2097
 msgid "Sent to users to notify that one of their listing has been published."
 msgstr ""
+"Αποστέλλεται στους χρήστες για να τους ειδοποιήσει ότι μία απο τις "
+"αναρτήσεις τους έχει δημοσιευθεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2104
 msgid "publish Mail"
-msgstr ""
+msgstr "Email Δημοσίευσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2113
 msgid "Archive Mail Template"
-msgstr ""
+msgstr "Email Template Αρχειοθέτησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2117
 msgid ""
 "Sent to users to notify that one of their listing has been archived due to "
 "expiration or manual administrative action."
 msgstr ""
+"Αποστέλλεται στους χρήστες για να τους ειδοποιήσει ότι μία από τις "
+"αναρτήσεις τους έχει αρχειοθετηθεί λόγω λήξης ή επέμβαση διαχειριστή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2124
 msgid "archive Mail"
-msgstr ""
+msgstr "Email Αρχειοθέτησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2133
 msgid "Reject Mail Template"
-msgstr ""
+msgstr "Email Template Απόρριψης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2137
 msgid "Sent to users to notify that one of their listing has been rejected."
 msgstr ""
+"Αποστέλλεται στους χρήστες για να τους ειδοποιήσει ότι μία απο τις "
+"αναρτήσεις τους έχει απορριφθεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2144
 msgid "reject Mail"
-msgstr ""
+msgstr "Email Απόρριψης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2153
 msgid "New Bid Mail Template"
-msgstr ""
+msgstr "Email Template Νέας Προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2157
 msgid "Sent to users when a candidate bid their projects."
 msgstr ""
+"Αποστέλλεται στους χρήστες όταν ένας υποψήφιος κάνει προσφορά στις εργασίες "
+"τους."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2164
 msgid "Bid Mail"
