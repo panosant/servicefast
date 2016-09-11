@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-11 02:04+0300\n"
+"PO-Revision-Date: 2016-09-12 01:41+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -2141,9 +2141,9 @@ msgid ""
 "Email templates used for project-related event. You can use placeholders to "
 "include some specific content"
 msgstr ""
-"Τα email templates χρησιμοποιούνται για γεγονόντα σχετικά με τις εργασίες. "
-"Μπορείτε να χρησιμοποιήσετε placeholders για να συμπεριλάβετε συγκεκριμένο "
-"περιεχόμενο."
+"Τα συγκεκριμένα email templates χρησιμοποιούνται για γεγονόντα σχετικά με "
+"τις εργασίες. Μπορείτε να χρησιμοποιήσετε placeholders για να συμπεριλάβετε "
+"συγκεκριμένο περιεχόμενο."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1969
 msgid "New Payment Notification Mail Template"
@@ -2268,147 +2268,161 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2164
 msgid "Bid Mail"
-msgstr ""
+msgstr "Email Προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2174
 msgid "Bid Accepted Mail Template"
-msgstr ""
+msgstr "Email Template Αποδοχής Προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2178
 msgid "Send to freelancer when his bid was accepted."
-msgstr ""
+msgstr "Αποστέλλεται στον επαγγελματία όταν η προσφορά του γίνετια αποδεκτή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2185
 msgid "Bid Accepted Mail"
-msgstr ""
+msgstr "Email Αποδοχής Προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2194
 msgid "Complete Project Mail Template"
-msgstr ""
+msgstr "Εmail Template Ολοκλήρωσης Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2198
 msgid "Send to user when project he worked on was marked complete."
-msgstr ""
+msgstr "Αποστέλλεται στον χρήστη όταν η εργασία σημειώνεται ως ολοκληρωμένη."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2205
 msgid "Complete Mail"
-msgstr ""
+msgstr "Email Ολοκλήρωσης "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2214
 msgid "New Project Mail Template"
-msgstr ""
+msgstr "Email Template Νέας Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2218
 msgid ""
 "Send to freelancers when a new project which related to his profile category "
 "is posted."
 msgstr ""
+"Αποστέλλεται στους επαγγελματίες όταν δημοσιεύεται μία νέα εργασία σχετική "
+"με την κατηγορία τους προφίλ τους."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2225
 msgid "New Project Mail"
-msgstr ""
+msgstr "Email Νέας Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2234
 msgid "Project Report Mail Template"
-msgstr ""
+msgstr "Email Template Αναφοράς Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2244
 msgid ""
 "Email templates used for project-report event. You can use placeholders to "
 "include some specific content"
 msgstr ""
+"Τα συγκεκριμένα email templates χρησιμοποιούνται για γεγονόντα σχετικά με "
+"τις αναφορές εργασιών. Μπορείτε να χρησιμοποιήσετε placeholders για να "
+"συμπεριλάβετε συγκεκριμένο περιεχόμενο."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2252
 msgid "Project was Reported by Employer"
-msgstr ""
+msgstr "Η εργασία αναφέρθηκε από τον Πελάτη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2256
 msgid "Send to freelancer when employer sends a report on the project."
 msgstr ""
+"Αποστέλλεται στον επαγγελματία όταν ο πελάτης στέλνει μια αναφορά σχετική με "
+"την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2263
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2283
 msgid "Employer Report  Mail"
-msgstr ""
+msgstr "Email Αναφοράς Πελάτη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2272
 msgid "Employer closed the project"
-msgstr ""
+msgstr "Κλείσιμο της εργασίας από τον Πελάτη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2276
 msgid "Send to freelancer when employer close project."
-msgstr ""
+msgstr "Αποστέλλεται στον επαγγελματία όταν ο πελάτης κλείνει την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2292
 msgid "Project Reported by Freelancer"
-msgstr ""
+msgstr "Η εργασία αναφέρθηκε από τον Επαγγελματία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2296
 msgid "Send to employer when freelancer send report on project."
 msgstr ""
+"Αποστέλλεται στον πελάτη όταν ο επαγγελματίας στέλνει μια αναφορά σχετική με "
+"την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2303
 msgid "Freelancer Report  Mail"
-msgstr ""
+msgstr "Email Αναφοράς Επαγγελματία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2312
 msgid "Freelancer Quit The Project"
-msgstr ""
+msgstr "Παραίτηση Επαγγελματία από την Εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2316
 msgid "Send to the employer when the freelancer quits the project"
 msgstr ""
+"Αποστέλλεται στον πελάτη όταν ο επαγγελματίας παραιτείται από την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2323
 msgid "Freelancer Quit  Mail"
-msgstr ""
+msgstr "Email Παραίτησης Επαγγελματία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2333
 msgid "New Report was sent to Admin"
-msgstr ""
+msgstr "Απόστολη Νέας Αναφοράς στον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2337
 msgid "Send to admin when user sends a report."
-msgstr ""
+msgstr "Αποστέλλεται στον διαχειριστή όταν ένας χρήστης στέλνει μια αναφορά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2344
 msgid "Admin New Report Mail"
-msgstr ""
+msgstr "Email Νέας Αναφοράς στον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2353
 msgid "Admin Refunded The Payment"
-msgstr ""
+msgstr "Επιστροφή Πληρωμής από τον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2357
 msgid ""
 "Send to users when admin refunds the escrow payment to the project's owner."
 msgstr ""
+"Αποστέλλεται στους χρήστες όταν ο διαχειριστής επιστρέφει την παρακρατούμενη "
+"πληρωμή στον δημιουργό της εργασίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2364
 msgid "Admin Refund Payment"
-msgstr ""
+msgstr "Επιστροφή Πληρωμής από τον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2373
 msgid "Admin Executed The Payment"
-msgstr ""
+msgstr "Εκτέλεση Πληρωμής από τον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2377
 msgid ""
 "Send to user when admin executes the escrow payment and send to the "
 "freelancer."
 msgstr ""
+"Αποστέλλεται στον χρήστη όταν ο διαχειριστής εκτελέι την παρακρατούμενη "
+"πληρωμή και την αποστέλλει στον επαγγελματία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2384
 msgid "Admin Execute Payment Mail"
-msgstr ""
+msgstr "Email Εκτέλεσης Πληρωμής από τον Διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2393
 msgid "Bid Cancel Mail Template"
-msgstr ""
+msgstr "Email Template Ακύρωσης Προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2397
 msgid "Send to employer when freelancer cancel a bid."
-msgstr ""
+msgstr "Αποστέλλεται στον πελάτη όταν ο επαγγελματίας ακυρώνει μια προσφορά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:2404
 msgid "Bid Cancel Mail"
