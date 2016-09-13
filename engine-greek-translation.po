@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-13 03:51+0300\n"
+"PO-Revision-Date: 2016-09-14 00:57+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-KeywordsList: _e;__;_n;_x\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -2054,22 +2054,26 @@ msgstr "τίτλος, link, λεπτομέρειες, συγγραφέας ερ�
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1814
 msgid "activate link is require for user to renew their pass"
 msgstr ""
+"Ένα link ενεργοποίησης είναι αναγκαίο ώστε ο χρήστης να ανανεώσει τον κωδικό "
+"του"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1815
 msgid " site info, admin email"
-msgstr ""
+msgstr "Πληροφορίες site, email διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1816
 msgid "list projects employer send to freelancer when invite him to join"
 msgstr ""
+"Εμφάνιση εργασιών που έστειλε ο πελάτης στον επαγγελματία όταν τον "
+"προσκάλεσε να εγγραφεί"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1827
 msgid "Register Mail Template"
-msgstr ""
+msgstr "Email Template Εγγραφής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1831
 msgid "Send to users when he register successfull."
-msgstr ""
+msgstr "Αποστέλλεται στους χρήστες όταν έχουν εγγραφεί επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1838
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1901
@@ -2087,6 +2091,8 @@ msgid ""
 "Send to users after he registered successfull when option confirm email is "
 "on."
 msgstr ""
+"Αποστέλλεται στους χρήστες αφού έχουν εγγραφεί επιτυχώς όταν η επιλογή email "
+"επιβεβαίωσης είναι ενεργοποιημένη."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1859
 msgid "Confirme Mail"
@@ -2094,31 +2100,35 @@ msgstr "Email Επιβεβαίωσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1869
 msgid "Confirmed Mail Template"
-msgstr ""
+msgstr "Email Template Επιβεβαίωσης "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1873
 msgid "Send to users to notify that he was confirm email successfull."
 msgstr ""
+"Αποστέλλεται στους χρήστες για να τους ειδοποιήσει ότι επιβεβαίωσαν το email "
+"τους επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1880
 msgid "Confirmed Mail"
-msgstr ""
+msgstr "Email Επιβαβαίωσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1890
 msgid "Forgotpass Mail Template"
-msgstr ""
+msgstr "Email Template Υπενθύμισης Κωδικού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1894
 msgid "Send to users when he request resetpass."
-msgstr ""
+msgstr "Αποστέλλεται στους χρήστες όταν ζητούν επαναφορά κωδικού."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1910
 msgid "Resetpass Mail Template"
-msgstr ""
+msgstr "Email Template Επαναφοράς Κωδικού"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1914
 msgid "Send to user to notify him has resetpass successfully."
 msgstr ""
+"Αποστέλλεται στους χρήστες για να τους ειδοποιήσει ότι η επαναφορά κωδικού "
+"ήταν επιτυχής."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/admin.php:1921
 msgid "Resetpassword Mail"
@@ -2763,33 +2773,33 @@ msgstr "περιεχόμενο εδώ"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-package.php:79
 #, php-format
 msgid "(%s)%s for %d days"
-msgstr ""
+msgstr "(%s)%s για %d ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:233
 #, php-format
 msgid "(%s)%s for %d day"
-msgstr ""
+msgstr "(%s)%s για %d ημέρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:235
 #, php-format
 msgid "(%s)%s for unlimited days"
-msgstr ""
+msgstr "(%s)%s για απεριόριστες ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:238
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-package.php:81
 #, php-format
 msgid "%s(%s) for %d days"
-msgstr ""
+msgstr "%s(%s) για %d ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:240
 #, php-format
 msgid "%s(%s) for %d day"
-msgstr ""
+msgstr "%s(%s) για %d ημέρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:242
 #, php-format
 msgid "%s(%s) for unlimited days"
-msgstr ""
+msgstr "%s(%s) για απεριόριστες ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-pack.php:248
 msgid "Sync success."
@@ -2806,7 +2816,7 @@ msgstr "Τα πλάνα πληρωμών έχουν οριστεί"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-package.php:29
 #, php-format
 msgid "%s for %d days"
-msgstr ""
+msgstr "%s για %d ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-package.php:320
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:192
@@ -2814,6 +2824,8 @@ msgid ""
 "You have reached the maximum number of Free posts. Please select another "
 "plan."
 msgstr ""
+"Φτάσατε τον μέγιστο αριθμό δωρεάν δημοσιεύσεων. Παρακαλώ επιλέξτε ένα άλλο "
+"πλάνο."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:119
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:162
@@ -2828,7 +2840,7 @@ msgstr "Φόρτωση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:121
 msgid "Categories' level is limited to 3"
-msgstr ""
+msgstr "Το μέγιστο επίπεδο κατηγοριών είναι το 3"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:130
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:172
@@ -2838,7 +2850,7 @@ msgstr "Αρχεία Εικόνων"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:135
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:294
 msgid "You must enter an integer value."
-msgstr ""
+msgstr "Πρέπει να εισάγετε μία ακέραια τιμή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:156
 msgid "Administration"
@@ -2863,7 +2875,7 @@ msgstr "Επιτυχής ενημέρωση επιλογής!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:422
 msgid "You must login to upload image."
-msgstr ""
+msgstr "Πρέπει να συνδεθείτε για να φορτώσετε μια εικόνα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:428
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/theme.php:280
@@ -2882,7 +2894,7 @@ msgstr "To logo φορτώθηκε επιτυχώς"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:475
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/theme.php:334
 msgid "Error when updating settings."
-msgstr ""
+msgstr "Σφάλμα κατα την ενημέρωση των ρυθμίσεων."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-page.php:481
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/theme.php:340
@@ -2895,7 +2907,7 @@ msgstr "Συγκεντρωτικός Πίνακας site"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-payments.php:251
 msgid "Post author information is incorrect!"
-msgstr ""
+msgstr "Οι πληροφορίες του συγγραφέα της δημοσίευσης είναι λανθασμένες!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-payments.php:302
 msgid "There is no payment plan."
@@ -2967,11 +2979,11 @@ msgstr "Η δημοσίευση δε βρέθηκε!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-post.php:480
 msgid "You can not edit other posts!"
-msgstr ""
+msgstr "Δεν μπορείτε να επεξεργαστείτε δημοσιεύσεις άλλων!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-post.php:597
 msgid "You do not have permission to delete post."
-msgstr ""
+msgstr "Δεν έχετε άδεια να διαγράψετε τη δημοσίευση."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-post.php:655
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:944
@@ -2984,7 +2996,7 @@ msgstr "Επιτυχία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:87
 msgid "Get user data successfully!"
-msgstr ""
+msgstr "Επιτυχής φόρτωση των δεδομένων χρήστη!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:101
 msgid "Input invalid"
@@ -2994,7 +3006,7 @@ msgstr "Λάθος εισαγωγή"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/user-item.php:65
 #, php-format
 msgid "Join on %s"
-msgstr ""
+msgstr "Συμμετείχε στο %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:136
 #, php-format
@@ -3015,7 +3027,7 @@ msgstr "Το πεδίο του κωδικού είναι υποχρεωτικό.
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:298
 msgid "Repeat Passwords mismatch."
-msgstr ""
+msgstr "Η επιβεβαίωση κωδικού διαφέρει."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:311
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:1468
