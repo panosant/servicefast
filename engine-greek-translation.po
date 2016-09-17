@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-17 15:18+0300\n"
+"PO-Revision-Date: 2016-09-18 01:06+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -3872,27 +3872,29 @@ msgstr "Ο απομακρυσμένος server επέστρεψε μήνυμα �
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:745
 msgid "Remote file is incorrect size"
-msgstr ""
+msgstr "Το απομακρυσμένο αρχείο έχει λάθος μέγεθος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:750
 msgid "Zero size file downloaded"
-msgstr ""
+msgstr "Το ληφθέν αρχείο έχει μηδενικό μέγεθος"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:756
 #, php-format
 msgid "Remote file is too large, limit is %s"
-msgstr ""
+msgstr "Το απομακρυσμένο αρχείο είναι πολύ μεγάλο, το όριο είναι %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/parsers.php:42
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/parsers.php:63
 msgid "There was an error when reading this WXR file"
-msgstr ""
+msgstr "Συνέβη ένα λάθος διαβάζοντας αυτό το WXR αρχείο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/parsers.php:43
 msgid ""
 "Details are shown above. The importer will now try again with a different "
 "parser..."
 msgstr ""
+"Οι πληροφορίες φαίνονται παραπάνω. Ο importer θα δοκιμάσει τώρα ξανά με "
+"διαφορετικό parser..."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/parsers.php:67
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/parsers.php:72
@@ -3901,50 +3903,53 @@ msgstr ""
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
+"Αυτό δε φαίνεται να είναι WXR αρχείο, λείπει/λανθασμένος αριθμός έκδοσης WXR"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-2CO.php:161
 msgid "Your 2Checkout was disabled because of invalid settings!"
-msgstr ""
+msgstr "Το 2Checkout έχει απενεργοποιηθεί λόγω λανθασμένων ρυθμίσεων!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-authorize.php:155
 msgid "Your Authorize.Net was disabled because of invalid settings!"
-msgstr ""
+msgstr "Το Authorize.Net έχει απενεργοποιηθεί λόγω λανθασμένων ρυθμίσεων!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-authorize.php:224
 msgid "Send your payment via Authorize.Net"
-msgstr ""
+msgstr "Στείλτε την πληρωμή σας μέσω του Authorize.Net"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-cash.php:22
 msgid ""
 "Please send your payment to account number: XXXX. Once payment has been "
 "verified, admin will approve your post or request."
 msgstr ""
+"Στείλτε την πληρωμή σας στον αριθμό λογαριασμού: ΧΧΧΧ. Όταν η πληρωμή "
+"εγκριθεί, ένας διαχειριστής θα κάνει αποδεκτή το αίτημα δημοσίευσής σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-google-checkout.php:91
 msgid "Your Google Checkout was disabled because of invalid settings!"
-msgstr ""
+msgstr "Το Google Checkout έχει απενεργοποιηθεί λόγω λανθασμένων ρυθμίσεων!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-order.php:90
 msgid "Order"
-msgstr ""
+msgstr "Παραγγελία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:39
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step4.php:35
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:35
 msgid "Send your payment via Paypal."
-msgstr ""
+msgstr "Στείλτε την πληρωμή σας μέσω Paypal."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:42
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step4.php:46
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:46
 msgid "Send your payment via 2Checkout."
-msgstr ""
+msgstr "Στείλτε την πληρωμή σας μέσω 2Checkout."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:48
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step4.php:58
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:58
 msgid "Send your cash payment to our bank account"
-msgstr ""
+msgstr "Στειλτε την πληρωμή σας στον τραπεζικό μας λογαριασμό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:63
 msgid "Australian Dollar"
@@ -3998,7 +4003,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:393
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:403
 msgid "MD5 False"
-msgstr ""
+msgstr "Λανθασμένο MD5"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:348
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:404
