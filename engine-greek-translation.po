@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-14 00:57+0300\n"
+"PO-Revision-Date: 2016-09-17 15:18+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -2618,6 +2618,8 @@ msgid ""
 "Theme functions required to create a folder wp-content/et-content. Please "
 "set chmod folder wp-content to 755."
 msgstr ""
+"To theme χρειάζεται να δημιουργήσει το φάκελο wp-content. Παρακαλώ αλλάξτε "
+"τα δικαιώματα του φακέλου σε 755."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-languages.php:362
 msgid "There was no changes in your translation."
@@ -3011,11 +3013,11 @@ msgstr "Συμμετείχε στο %s"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:136
 #, php-format
 msgid "Logged in as <span class=\"name\">%s<span>"
-msgstr ""
+msgstr "Σύνδεση σαν <span class=\"name\">%s<span>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:289
 msgid "Username only lowercase letters (a-z) and numbers are allowed."
-msgstr ""
+msgstr "Μόνο μικρά γράμματα (a-z) και αριθμοί επιτρέπονται στο όνομα χρήστη."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:292
 msgid "Email field is invalid."
@@ -3033,149 +3035,156 @@ msgstr "Η επιβεβαίωση κωδικού διαφέρει."
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:1468
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:525
 msgid "Please enter a valid captcha!"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε το σωστό captcha!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:325
 msgid "You can't create an administrator account."
-msgstr ""
+msgstr "Δεν μπορείτε να δημιουργησετε λογαριασμό διαχειριστή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:367
 msgid "You have registered successfully!"
-msgstr ""
+msgstr "Έχετε εγγραφεί επιτυχώς!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:367
 msgid ""
 "You have registered successfully. Please check your mailbox to activate your "
 "account."
 msgstr ""
+"Έχετε εγγραφεί επιτυχώς. Παρακαλώ ελέγξτε το ηλεκτρονικό σας ταχυδρομείο για "
+"να ενεργοποιήσετε το λογαριασμό σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:393
 msgid "Permission Denied!"
-msgstr ""
+msgstr "Δεν επιτρέπεται η πρόσβαση!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:404
 msgid "Old password does not match!"
-msgstr ""
+msgstr "Ο παλαιός κωδικός δεν ταιριάζει!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:408
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:681
 msgid "Retype password is not equal."
-msgstr ""
+msgstr "Η επαναπλητρολόγηση του κωδικού δεν ταιριάζει."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:420
 msgid "This email is already used. Please enter a new email."
-msgstr ""
+msgstr "Αυτό το email χρησιμοποιείται ήδη. Παρακαλώ εισάγετε ένα νέο email."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:473
 msgid "Your profile has been saved successfully!"
-msgstr ""
+msgstr "Το προφίλ σας έχει αποθηκευτεί επιτυχώς!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:476
 msgid "Your password has been changed successfully!"
-msgstr ""
+msgstr "Ο κωδικός σας έχει αλλάξει επιτυχως!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:481
 msgid "User has been banned!"
-msgstr ""
+msgstr "Ο χρήστης έχει αποκλειστεί!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:484
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:488
 msgid "User's data update successfully!"
-msgstr ""
+msgstr "Τα δεδομένα του χρήστη έχουν ενημερωθεί επιτυχώς!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:518
 #, php-format
 msgid "You have been banned from %s"
-msgstr ""
+msgstr "Έχετε αποκλειστεί από τον %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:619
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:655
 msgid "The login information you entered were incorrect. Please try again!"
-msgstr ""
+msgstr "Οι πληροφορίες σύνδεσης είναι λάθος. Προσπαθήστε ξανά!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:622
 msgid "Your account is banned."
-msgstr ""
+msgstr "Ο λογαριασμός σας έχει αποκλειστεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:659
 msgid "You have signed in successfully!"
-msgstr ""
+msgstr "Έχετε συνδεθεί επιτυχώς!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:676
 msgid "You cannot change other user password"
-msgstr ""
+msgstr "Δεν μπορείτε να αλλάξετε τον κωδικό άλλου χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:708
 msgid "ERROR: Enter username or email address."
-msgstr ""
+msgstr "ΛΑΘΟΣ: Εισάγετε όνομα χρήστη ή διεύθυνση email."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:713
 msgid "ERROR: There is no user registered with that email address."
-msgstr ""
+msgstr "ΛΑΘΟΣ: Δεν υπάρχει εγγεγραμμένος χρήστης με αυτήν τη διεύθυνση email."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:724
 msgid "ERROR: Invalid username or email address."
-msgstr ""
+msgstr "ΛΑΘΟΣ: Λάθος όνομα χρήστη ή διεύθυνση email."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:735
 msgid "Password reset is not allowed for this user"
-msgstr ""
+msgstr "Η επαναφορά κωδικού δεν επιτρέπεται για αυτόν το χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:757
 msgid ""
 "We have sent an reset password mail to your mailbox. Please check your mail."
 msgstr ""
+"Έχουμε στείλει ένα email επαναφοράς κωδικου στο mail σας. Παρακαλώ ελέγξτε "
+"το."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:772
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:778
 msgid "Invalid Activation Key."
-msgstr ""
+msgstr "Λάθος Κλειδί Ενεργοποίησης."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:774
 msgid "Invalid User Name"
-msgstr ""
+msgstr "Λάθος Όνομα Χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:795
 msgid "Username is empty."
-msgstr ""
+msgstr "Το όνομα χρήστη είναι κενό."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:796
 msgid "Invalid Activation Key"
-msgstr ""
+msgstr "Λάθος Κλειδί Ενεργοποίησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:797
 msgid "Please enter your new password"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε το νέο σας κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:814
 msgid ""
 "Your password have updated successfull. You can login with your new password "
 "now."
 msgstr ""
+"Ο κωδικός σας έχει ενημερωθεί επιτυχώς. Μπορείτε να τον χρησιμοποιήσετε για "
+"να συνδεθείτε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:834
 msgid "Your message has been sent successfully!"
-msgstr ""
+msgstr "Το μήνυμά σας έχει αποσταλλεί επιτυχώ!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:1055
 msgid "Get users successfull"
-msgstr ""
+msgstr "Επιτυχής ανάκτηση χρηστών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:1060
 msgid "No user found by your query"
-msgstr ""
+msgstr "Δε βρέθηκαν χρήστες από την αναζήτησή σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:1090
 msgid "New confirm email already send to your email account."
-msgstr ""
+msgstr "Το email επιβεβαίωσης έχει ήδη σταλέι στο λογαριασμό email σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:1098
 msgid "An unknown error has occurred. Please try again later."
-msgstr ""
+msgstr "Ένα άγνωστο λάθος έχει συμβεί. Παρακαλούμε ξαναπροσπαθήστε αργότερα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-users.php:1105
 msgid "Please wait 5 minutes to resend an activation code!"
 msgstr ""
+"Παρακαλούμε περιμένετε 5 λεπτά για να ξαναστείλετε έναν κωδικο ενεργοποίησης!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:39
 #, php-format
@@ -3184,65 +3193,78 @@ msgid ""
 "through our <a href='%s'>setup wizard</a> to set up the basic configuration "
 "for your website! <a href='%s'>Close this message</a>"
 msgstr ""
+"Καθώς μόλις εγκαταστήσατε το theme DirectoryEngine, σας συμβουλεύουμε να "
+"ακολουθήστετε τον <a href='%s'>οδηγό εγκαταστασης</a> ώστε να ολοκληρώσετε "
+"την βασική παραμετροποίηση του site σας! <a href='%s'>Κλείσιμο</a>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:61
 msgid "Import Data Successfully."
-msgstr ""
+msgstr "Επιτυχής Εισαγωγή Δεδομένων."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:81
 msgid "Delete Data Successfully."
-msgstr ""
+msgstr "Επιτυχής Διαγραφή Δεδομένων."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:97
 msgid "Insert sample data"
-msgstr ""
+msgstr "Εισαγωγή δείγματος δεδομένων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:99
 msgid "Insert sample data false"
-msgstr ""
+msgstr "Λανθασμένη εισαγωγή δείγματος δεδομένων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:100
 msgid "Delete sample data false"
-msgstr ""
+msgstr "Λανθασμένη διαγραφή δείγματος δεδομένων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:101
 msgid ""
 "It would take up to a few minutes for your images to be uploaded to the "
 "server. Please don't close or reload this page."
 msgstr ""
+"Θα παρει μερικά λεπτά μέχρι να ανέβουν οι εικόνες σας στον server. "
+"Παρακαλούμε μην ανανεώσετε τη σελίδα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:118
 msgid ""
 "The sample data include some items from the list below: places, comments, "
 "etc."
 msgstr ""
+"Το δείγμα δεδομένων περιέχει κάποια αντικείμενα από την παρακάτω λίστα: "
+"μέρη, σχόλια κλπ."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:135
 msgid "Places"
-msgstr ""
+msgstr "Μέρη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:135
 msgid "Add new place types or modify the sample ones to suit your site style."
 msgstr ""
+"Προσθέστε νέους τύπους μερών ή επεξεργαστείτε αυτούς του δείγματος ώστε να "
+"ταιριάζουν στο στυλ του site σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:138
 msgid "Place Categories"
-msgstr ""
+msgstr "Κατηγορίες Μερών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:138
 msgid ""
 "Add new categories or modify the sample data to match your directory "
 "business."
 msgstr ""
+"Προσθέστε νέες κατηγορίες ή επεξεργαστείτε αυτές του δείγματος ώστε να "
+"ταιριάζουν στον κατάλογο επιχειρίσεών σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:141
 msgid "Place Locations"
-msgstr ""
+msgstr "Τοποθεσίες Μερών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/class-ae-wizard.php:141
 msgid ""
 "Add new locations or modify the sample data to match your directory business."
 msgstr ""
+"Προσθέστε νέες τοποθεσίες ή επεξεργαστείτε αυτές του δείγματος ώστε να "
+"ταιριάζουν στον κατάλογο επιχειρίσεών σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-payments.php:48
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/fields/container-users.php:48
@@ -3421,11 +3443,11 @@ msgstr "Είστε σίγουρος ότι θέλετε να το αρχειοθ
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:190
 msgid "File extension error"
-msgstr ""
+msgstr "Λάθος επέκτασης αρχείου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:193
 msgid "Please fill all require fields."
-msgstr ""
+msgstr "Παρακαλούμε συμπληρώστε όλα απαιτούμενα πεδία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:199
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:206
@@ -3609,103 +3631,109 @@ msgstr "Δεκ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:285
 msgid "This field is required."
-msgstr ""
+msgstr "Το πεδίο αυτό είναι υποχρεωτικό."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:286
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια σωστή διεύθυνση email."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:287
 msgid "Please enter a valid URL."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα σωστό URL."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:288
 msgid "Please enter a valid number."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα σωστό αριθμό."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:289
 msgid "Please enter only digits."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μόνο ψηφία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:290
 msgid "Please enter the same value again."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε την ίδια τιμή ξανά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:291
 msgid "Please enter a valid date."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια σωστή ημερομηνία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:292
 msgid "Please enter a valid credit card number."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα σωστό αριθμό κάρτας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:293
 msgid "Please enter a value with a valid extension."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια τιμή με σωστή επέκταση."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:295
 msgid "Please enter no more than {0} characters."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε το πολύ {0} χαρακτήρες."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:296
 msgid "Please enter at least {0} characters."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε τουλάχστον {0} χαρακτήρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:297
 msgid "Please enter a value between {0} and {1} characters long."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια τιμή μήκους μεταξύ {0} και {1} χαρακτήρων."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:298
 msgid "Please enter a value between {0} and {1}."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια τιμή μεταξύ {0} και {1}."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:299
 msgid "Please enter a value greater than or equal to {0}."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια τιμή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:300
 msgid "Please enter a value less than or equal to {0}."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε μια τιμή μικρότερη ή ίση του {0}."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:324
 msgid "Your account has been confirmed successfully!"
-msgstr ""
+msgstr "Ο λογαριασμός σας έχει επαληθευτεί επιτυχώς!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:364
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "Σελίδα %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/framework.php:457
 msgid "Not owned this image!"
-msgstr ""
+msgstr "Αυτή η φωτογραφία δεν είναι δική σας!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:340
 #, php-format
 msgid "Use commas instead of %s to separate excluded terms."
 msgstr ""
+"Χρησιμοποιείστε κόμμα αντί για %s για να διαχωρίσετε τους αποκλειόμενους "
+"όρους."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:660
 msgid "There was a problem with your upload."
-msgstr ""
+msgstr "Υπήρξε ένα πρόβλημα με τη μεταφόρτωσή σας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:664
 msgid "Where is the file?"
-msgstr ""
+msgstr "Πού είναι το αρχειο;"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:690
 #, php-format
 msgid "Not enough space to upload. %1$s KB needed."
-msgstr ""
+msgstr "Δεν υπάρχει αρκετός χώρος για τη μεταφόρτωση. Απαιτούνται %1$s KB."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:691
 #, php-format
 msgid "This file is too big. Files must be less than %1$s KB in size."
 msgstr ""
+"Αυτό το αρχείο είναι πολύ μεγάλο. Τα αρχεία πρέπει να είναι λιγότερο απο "
+"%1$s KB σε μέγεθος."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:693
 msgid "You have used your space quota. Please delete files before uploading."
 msgstr ""
+"Έχετε υπερβεί το διαθέσιμο χώρο. Παρακαλούμε διαγράψτε μερικά αρχεία πριν "
+"μεταφορτώσετε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:756
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:1185
@@ -3713,12 +3741,12 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/report.php:63
 #, php-format
 msgid "on %s"
-msgstr ""
+msgstr "στις %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:758
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:1187
 msgid "ago"
-msgstr ""
+msgstr "πριν"
 
 #. translators: min=minute
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/functions.php:794
@@ -3835,12 +3863,12 @@ msgstr "Για Πάντα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:732
 msgid "Remote server did not respond"
-msgstr ""
+msgstr "O απομακρυσμένος server δεν ανταποκρίθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:738
 #, php-format
 msgid "Remote server returned error response %1$d %2$s"
-msgstr ""
+msgstr "Ο απομακρυσμένος server επέστρεψε μήνυμα λάθους %1$d %2$s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/import/class-ae-importer.php:745
 msgid "Remote file is incorrect size"
