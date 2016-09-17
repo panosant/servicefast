@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-18 01:06+0300\n"
+"PO-Revision-Date: 2016-09-18 01:33+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -3993,11 +3993,11 @@ msgstr "Δολλάριο Σιγκαπούρης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:449
 msgid "Paypal option is disabled because of invalid setting."
-msgstr ""
+msgstr "Η επιλογή PayPal έχει απενεργοποιηθεί λόγω μη έγκυρης ρύθμισης."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/et-payment.php:657
 msgid "Please fill in a valid email!"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα έγκυρο email!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:347
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:393
@@ -4008,7 +4008,7 @@ msgstr "Λανθασμένο MD5"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:348
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:404
 msgid "Md5 check sum not match!"
-msgstr ""
+msgstr "Το MD5 checksum δεν ταιριάζει!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:394
 msgid ""
@@ -4020,7 +4020,7 @@ msgstr ""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:434
 msgid "Discount"
-msgstr ""
+msgstr "Έκπτωση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:435
 msgid "You have use a coupon code to get discount"
