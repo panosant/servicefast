@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-18 13:18+0300\n"
+"PO-Revision-Date: 2016-09-18 16:17+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-KeywordsList: _e;__;_n;_x\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -5456,91 +5456,91 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:601
 #, php-format
 msgid " at %s"
-msgstr ""
+msgstr " στις %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:660
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:634
 msgid "Update project successful!"
-msgstr ""
+msgstr "Επιτυχημένη ενημέρωση εργασίας!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:684
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:711
 #, php-format
 msgid "New comment on %s"
-msgstr ""
+msgstr "Νέο σχόλιο στο %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:11
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:12
 msgid "Pack"
-msgstr ""
+msgstr "Πακέτο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:14
 msgid "Add New Pack"
-msgstr ""
+msgstr "Προσθήκη Νέου Πακέτου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:15
 msgid "Edit Pack"
-msgstr ""
+msgstr "Επεξεργασία Πακέτου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:16
 msgid "New Pack"
-msgstr ""
+msgstr "Νέο Πακέτο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:17
 msgid "All Packs"
-msgstr ""
+msgstr "Όλα τα Πακέτα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:18
 msgid "View Pack"
-msgstr ""
+msgstr "Προβολή Πακέτου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:19
 msgid "Search Packs"
-msgstr ""
+msgstr "Αναζήτηση Πακέτων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:20
 msgid "No Pack found"
-msgstr ""
+msgstr "Δεν βρέθηκε κανένα πακέτο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:21
 msgid "NoPacks found in Trash"
-msgstr ""
+msgstr "Δεν βρέθηκε κανένα πακέτο στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:23
 msgid "Packs"
-msgstr ""
+msgstr "Πακέτα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:48
 msgid "Project Information"
-msgstr ""
+msgstr "Πληροφορίες Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:175
 msgid "Packages:"
-msgstr ""
+msgstr "Πακέτα:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:199
 msgid "Featured post:"
-msgstr ""
+msgstr "Εμφανιζόμενη ανάρτηση:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:203
 msgid "Make this post featured in listing."
-msgstr ""
+msgstr "Κάντε αυτήν την ανάρτηση να εμφανίζεται στην λίστα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:209
 msgid "Expired Date:"
-msgstr ""
+msgstr "Ημερομηνία Λήξης:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:212
 msgid "Specify a date when ad will be archived."
-msgstr ""
+msgstr "Επιλέξτε την ημερομηνία αρχειοθέτησης."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:221
 msgid "Assign to a author:"
-msgstr ""
+msgstr "Ανάθεση σε έναν δημιουργό:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/post-meta-box.php:225
 msgid "Choose a seller to make him become the author of this item."
-msgstr ""
+msgstr "Επιλέξτε τον δημιουργό αυτού του αντικειμένου."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:13
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:24
@@ -5553,132 +5553,132 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:8
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:8
 msgid "Profiles"
-msgstr ""
+msgstr "Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:15
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:16
 msgid "Add New profile"
-msgstr ""
+msgstr "Προσθήκη Νέου προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:17
 msgid "Edit profile"
-msgstr ""
+msgstr "Επεξεργασία προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:18
 msgid "New profile"
-msgstr ""
+msgstr "Νέο προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:19
 msgid "View profile"
-msgstr ""
+msgstr "Προβολή προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:20
 msgid "Search Profiles"
-msgstr ""
+msgstr "Αναζήτησ Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:21
 msgid "No Profiles found"
-msgstr ""
+msgstr "Δεν βρέθηκαν Προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:22
 msgid "No Profiles found in Trash"
-msgstr ""
+msgstr "Δεν βρέθηκαν Προφίλ στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:23
 msgid "Parent profile:"
-msgstr ""
+msgstr "Γενικό προφίλ:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:54
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:67
 msgid "Countries"
-msgstr ""
+msgstr "Χώρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:56
 msgid "Search countries"
-msgstr ""
+msgstr "Αναζήτηση χωρών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:57
 msgid "Popular countries"
-msgstr ""
+msgstr "Δημοφιλείς χώρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:58
 msgid "All countries"
-msgstr ""
+msgstr "Όλες οι χώρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:59
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:60
 msgid "Parent country"
-msgstr ""
+msgstr "Γενική χώρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:61
 msgid "Edit country"
-msgstr ""
+msgstr "Επεξεργασία χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:62
 msgid "Update country "
-msgstr ""
+msgstr "Ενημέρωση χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:63
 msgid "Add New country "
-msgstr ""
+msgstr "Προσθήκη Νέας χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:64
 msgid "New country Name"
-msgstr ""
+msgstr "Νέο Όνομα χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:65
 msgid "Add or remove country"
-msgstr ""
+msgstr "Προσθήκη ή αφαίρεση χώρας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:66
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:208
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:81
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:130
 msgid "Choose from most used enginetheme"
-msgstr ""
+msgstr "Επιλέξτε από τα πιο δημοφιλή enginetheme"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:115
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:126
 msgid "Portfolios"
-msgstr ""
+msgstr "Χαρτοφυλάκια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:116
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/portfolios-filter.php:14
 msgid "Portfolio"
-msgstr ""
+msgstr "Χαρτοφυλάκιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:117
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:118
 msgid "Add New portfolio"
-msgstr ""
+msgstr "Προσθήκη Νέου χαρτοφυλακίου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:119
 msgid "Edit portfolio"
-msgstr ""
+msgstr "Επεξεργασία χαρτοφυλακίου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:120
 msgid "New portfolio"
-msgstr ""
+msgstr "Νέο χαρτοφυλάκιο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:121
 msgid "View portfolio"
-msgstr ""
+msgstr "Προβολή χαρτοφυλακίων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:122
 msgid "Search portfolio"
-msgstr ""
+msgstr "Αναζήτηση χαρτοφυλακίων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:123
 msgid "No portfolio found"
-msgstr ""
+msgstr "Δεν βρέθηκαν χαρτοφυλάκια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:124
 msgid "No portfolios found in Trash"
-msgstr ""
+msgstr "Δεν βρέθηκαν χαρτοφυλάκια στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:125
 msgid "Parent portfolio:"
-msgstr ""
+msgstr "Γενικό χαρτοφυλάκιο:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:196
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:209
@@ -5687,88 +5687,90 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:64
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step3.php:75
 msgid "Skills"
-msgstr ""
+msgstr "Δεξιότητες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:198
 msgid "Search Skills"
-msgstr ""
+msgstr "Αναζήτηση Δεξιοτήτων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:199
 msgid "Popular Skills"
-msgstr ""
+msgstr "Δημοφιλείς Δεξιότητες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:200
 msgid "All Skills"
-msgstr ""
+msgstr "Όλες οι Δεξιότητες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:201
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:202
 msgid "Parent Skill"
-msgstr ""
+msgstr "Γενική Δεξιότητα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:203
 msgid "Edit Skill"
-msgstr ""
+msgstr "Επεξεργασία Δεξιότητας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:204
 msgid "Update Skill "
-msgstr ""
+msgstr "Ενημέρωση Δεξιότητας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:205
 msgid "Add New Skill "
-msgstr ""
+msgstr "Προσθέστε Νέα Δεξιότητα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:206
 msgid "New Skill Name"
-msgstr ""
+msgstr "Νέο Όνομα Δεξιότητας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:207
 msgid "Add or remove skill"
-msgstr ""
+msgstr "Προσθήκη ή αφαίρεση δεξιότητας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:284
 #, php-format
 msgid "%d years"
-msgstr ""
+msgstr "%d χρόνια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:286
 #, php-format
 msgid "%d year"
-msgstr ""
+msgstr "%d χρόνο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:294
 #, php-format
 msgid "%s/h"
-msgstr ""
+msgstr "%s/ώρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:547
 msgid ""
 "Your account is pending. You have to activate your account to create profile."
 msgstr ""
+"Ο λογαριασμός σας βρίσκεται σε εκκρεμότητα. Πρέπει να ενεργοποιήσετε τον "
+"λογαριασμό σας για να δημιουργήσετε προφίλ."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:566
 msgid "You only can have on profile."
-msgstr ""
+msgstr "Μπορείτε να έχεετε μόνο ένα προφίλ."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:589
 msgid "Your profile has been created successfully."
-msgstr ""
+msgstr "Το προφίλ σας δημιουργήθηκε επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:598
 msgid "Your profile has been updated successfully."
-msgstr ""
+msgstr "Το προφίλ σας ενημερώθηκε επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:733
 msgid "Portfolio has been created successfully."
-msgstr ""
+msgstr "Το χαρτοφυλάκιό σας δημιουργήθηκε επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:739
 msgid "Portfolio has been deleted successfully."
-msgstr ""
+msgstr "Το χαρτοφυλάκιό σας διαγράφτηκε επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:750
 msgid "Portfolio has been updated successfully."
-msgstr ""
+msgstr "Το χαρτοφυλάκιό σας ενημερώθηκε επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:788
 msgid ""
@@ -5784,17 +5786,24 @@ msgid ""
 "    All at ###SITENAME###\n"
 "    ###SITEURL###"
 msgstr ""
+" Hi ###USERNAME###,\n"
+"    Το email σας μόλις άλλαξε στο ###SITENAME###.\n"
+"    Αν είναι σωστό, παρακαλώ πατήστε στο παρακάτω link ώστε να επιβεβαιώσετε "
+"την αλλαγή σας:\n"
+"    ###LINK###"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:811
 #, php-format
 msgid "[%s]Email Change Confirmation"
-msgstr ""
+msgstr "[%s]Επιβεβαίωση Αλλαγής Email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/profiles.php:827
 msgid ""
 "Please complete your profile information and enable \"Available for hire\" "
 "function at page Profile!"
 msgstr ""
+"Παρακαλώ ολοκληρώστε τις πληροφορίες του προφίλ σας και ενεργοποιήστε την "
+"επιλογή \"Διαθέσιμος για εργασίες\" στη σελίδα του Προφίλ σας!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:14
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:25
@@ -5807,36 +5816,36 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy-project_type.php:7
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/taxonomy.php:7
 msgid "Projects"
-msgstr ""
+msgstr "Εργασίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:17
 msgid "Add New project"
-msgstr ""
+msgstr "Προσθέστε Νέα Εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:18
 msgid "Edit project"
-msgstr ""
+msgstr "Επεξεργασία εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:19
 msgid "New project"
-msgstr ""
+msgstr "Νέα εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:20
 msgid "View project"
-msgstr ""
+msgstr "Προβολή εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:21
 msgid "Search Projects"
-msgstr ""
+msgstr "Αναζήτηση Εργασιών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:22
 msgid "No Projects found"
-msgstr ""
+msgstr "Δεν βρέθηκε καμία εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:23
 msgid "No Projects found in Trash"
-msgstr ""
+msgstr "Δεν βρέθηκε καμία εργασία στα Σκουπήδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:24
 msgid "Parent project:"
