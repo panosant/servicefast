@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-18 16:17+0300\n"
+"PO-Revision-Date: 2016-09-18 20:16+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Generator: Poedit 1.8.9\n"
+"X-Generator: Poedit 1.8.8\n"
 "X-Poedit-KeywordsList: _e;__;_n;_x\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -4372,6 +4372,8 @@ msgstr "ΣΥΝΔΕΣΗ ΜΕΣΩ ΚΟΙΝΩΝΙΚΩΝ ΔΙΚΤΥΩΝ"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:240
 msgid "setup a way for users to login via their socile network accounts"
 msgstr ""
+"Δημιουργήστε εναν τρόπο ώστε να συνδέονται οι χρήστες μέσω των λογαριασμών "
+"τους για τα social media"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:124
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:131
@@ -4692,81 +4694,81 @@ msgstr "Όλα τα πλάνα Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:17
 msgid "View Bid plan"
-msgstr ""
+msgstr "Δείτε το πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:18
 msgid "Search Bid plans"
-msgstr ""
+msgstr "Αναζητήστε πλάνα Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:19
 msgid "No Bid plan found"
-msgstr ""
+msgstr "Δε βρέθηκε πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:20
 msgid "No Bid plans found in Trash"
-msgstr ""
+msgstr "Δε βρέθηκαν πλάνα Προσφορών στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:22
 msgid "Bid plans"
-msgstr ""
+msgstr "Πλάνα Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:54
 #, php-format
 msgid "%s for %d bids"
-msgstr ""
+msgstr "%s για %d προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:103
 #, php-format
 msgid "You've successfully purchased %d credits."
-msgstr ""
+msgstr "Έχετε αγοράσει επιτυχώς %d credits."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:235
 #, php-format
 msgid "You have bid successfully. Only %s free bids left"
-msgstr ""
+msgstr "Επιτυχής αποστολή προσφοράς. Απομένουν %s δωρεάν προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:237
 #, php-format
 msgid "You have bid successfully. Only %s free bid left"
-msgstr ""
+msgstr "Επιτυχής αποστολή προσφοράς. Απομένει %s δωρεάν credit"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:243
 #, php-format
 msgid "You have bid successfully. Only %s credits left"
-msgstr ""
+msgstr "Επιτυχής αποστολή προσφοράς. Απομένουν %s credits"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:245
 #, php-format
 msgid "You have bid successfully. Only %s credit left"
-msgstr ""
+msgstr "Επιτυχής αποστολή προσφοράς. Απομένει %s credit"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:248
 msgid "You have bid successfully. No credit left"
-msgstr ""
+msgstr "Επιτυχής αποστολή προσφοράς. Δεν απομένουν άλλα credit"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:255
 msgid " RESULT OF  "
-msgstr ""
+msgstr " ΑΠΟΤΕΛΕΣΜΑ ΑΠΟ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:256
 msgid " RESULTS OF "
-msgstr ""
+msgstr " ΑΠΟΤΕΛΕΣΜΑΤΑ ΑΠΟ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:257
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:258
 #, php-format
 msgid "You can only choose %s!"
-msgstr ""
+msgstr "Μπορείτε να επιλέξετε μόνο %s!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:263
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/vc_blocks/projects.php:83
 msgid "View all projects "
-msgstr ""
+msgstr "Δείτε όλες τις εργασίες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:264
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/vc_blocks/profiles.php:94
 msgid "View all profiles "
-msgstr ""
+msgstr "Δείτε όλα τα προφίλ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:266
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:306
@@ -4775,18 +4777,22 @@ msgid ""
 "Your account is pending. You have to activate your account to continue this "
 "step."
 msgstr ""
+"Ο λογαριασμός σας είναι σε εκκρεμμότητα. Πρέπει να ενεργοποιηθεί ο "
+"λογαριασμός σας για να συνεχίσετε σε αυτό το βήμα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:331
 msgid ""
 "Bid plans has been changed from this version. Click OK for further details."
 msgstr ""
+"Τα πλάνα προσφορών έχουν αλλάξει από αυτήν την έκδοση. Πατήστε ΟΚ για "
+"παραπάνω πληροφορίες."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:6
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:17
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:31
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/user-bid-item.php:32
 msgid "Bids"
-msgstr ""
+msgstr "Προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:7
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:104
@@ -4796,64 +4802,64 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/bid-not-item.php:35
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail.php:59
 msgid "Bid"
-msgstr ""
+msgstr "Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:8
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:9
 msgid "Add New Bid"
-msgstr ""
+msgstr "Προσθέστε Νέα Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:10
 msgid "Edit Bid"
-msgstr ""
+msgstr "Επεξεργαστείτε την Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:11
 msgid "New bid"
-msgstr ""
+msgstr "Νέα Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:12
 msgid "View bid"
-msgstr ""
+msgstr "Δείτε την Προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:13
 msgid "Search Bids"
-msgstr ""
+msgstr "Αναζήτηση Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:14
 msgid "No Bids found"
-msgstr ""
+msgstr "Δε βρέθηκαν Προσφορές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:15
 msgid "No Bids found in Trash"
-msgstr ""
+msgstr "Δε βρέθηκαν Προσφορές στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:16
 msgid "Parent bid:"
-msgstr ""
+msgstr "Αρχική προσφορά:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:188
 msgid "Unknow"
-msgstr ""
+msgstr "Άγνωστο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:194
 #, php-format
 msgid "in %d days"
-msgstr ""
+msgstr "σε %d ημέρες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:196
 #, php-format
 msgid "in %d day"
-msgstr ""
+msgstr "σε %d ημέρα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:200
 #, php-format
 msgid "in %d weeks"
-msgstr ""
+msgstr "σε %d εβδομάδες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:202
 #, php-format
 msgid "in %d week"
-msgstr ""
+msgstr "σε %d εβδομάδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:227
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:692
@@ -4861,147 +4867,155 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:66
 #, php-format
 msgid "Job is %s"
-msgstr ""
+msgstr "Η εργασία είναι %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:242
 msgid "In Progress"
-msgstr ""
+msgstr "Σε Εξέλιξη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:318
 msgid "Error. You have been accepted for this project"
-msgstr ""
+msgstr "Λάθος. Δεν έχετε γίνει αποδεκτός για αυτήν την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:337
 msgid "Update bid successful."
-msgstr ""
+msgstr "Επιτυχής ενημέρωση προσφοράς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:339
 msgid "Create bid successful."
-msgstr ""
+msgstr "Επιτυχής δημιουργία προσφοράς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:372
 msgid "Project has been assign successful."
-msgstr ""
+msgstr "Η εργασία έχει αναθετηθεί επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:402
 msgid "Please enter your bid message."
-msgstr ""
+msgstr "Παρακαλώ εισάγετε το μήνυμα προσφοράς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:414
 msgid "You have to set the bid budget."
-msgstr ""
+msgstr "Πρέπει να εισάγετε τον προϋπολογισμό προσφοράς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:418
 msgid "You have to set the time to finish project."
-msgstr ""
+msgstr "Πρέπει να εισάγετε το χρόνο ολοκλήρωσης της εργασίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:422
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:845
 msgid "Your budget have to greater than zero!"
-msgstr ""
+msgstr "Ο προϋπολογισμός σας πρέπει να ειναι μεγαλύτερος του μηδέν!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:426
 msgid "Please enter a valid number in budget or bid time"
 msgstr ""
+"Παρακαλώ εισάγετε έναν έγκυρο αριθμό στον προϋπολογισμό ή το χρόνο της "
+"προσφοράς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:429
 msgid "Please login to bid a project"
-msgstr ""
+msgstr "Παρακαλώ συνδεθείτε για να υποβάλλετε μια προσφορά για εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:431
 msgid "This project is not publish."
-msgstr ""
+msgstr "Αυτή η εργασία δεν έχει δημοσιεθεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:438
 msgid "You have bid on this project"
-msgstr ""
+msgstr "Έχετε υποβάλλει προσφορά για αυτήν την εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:443
 msgid "You can't bid on your project"
-msgstr ""
+msgstr "Δεν μπορείτε να υποβάλλετε προσφορά για δική σας εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:448
 msgid "You have to be a freelancer to bid a project."
 msgstr ""
+"Θα πρέπει να είστε επαγγελματίας για να υποβάλλετε προσφορά για μία εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:458
 msgid "You must complete your profile to bid on a project."
 msgstr ""
+"Θα πρέπει να ολοκληρώσετε το προφίλ σας για να υποβάλλετε προσφορά για μια "
+"εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:466
 msgid "You must setup your paypal account in profile to receive money."
-msgstr ""
+msgstr "Θα πρέπει να ρυθμίσετε το λογαριασμό Paypal σας για να λάβετε χρήματα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:501
 msgid "You have successfully bidden."
-msgstr ""
+msgstr "Έχετε υποβάλλει προσφορά επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:540
 msgid "Your bid has been deleted successfully."
-msgstr ""
+msgstr "Η προσφορά σας διεγράφη επιτυχώς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:553
 msgid "You don't have perminsion to accept this project."
-msgstr ""
+msgstr "Δεν έχετε την άδεια να αποδεχτείτε αυτήν την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:556
 msgid "You must login to accept bid."
-msgstr ""
+msgstr "Θα πρέπει να συνδεθείτε για να αποδεχτείτε μια προσφορά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:561
 msgid "Your project was not pubished. You can not accept a bid!"
 msgstr ""
+"Η εργασία σας δεν έχει δημοσιευτεί. Δεν μπορείτε να δεχτείτε προσφορές!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bids.php:614
 #, php-format
 msgid "%s bid for project \"%s\""
-msgstr ""
+msgstr "%s προσφορές για την εργασία \"%s\""
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:10
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:11
 msgid "Fre Order"
-msgstr ""
+msgstr "Ελεύθερη Παραγγελία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:51
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:111
 msgid "Invalid bid"
-msgstr ""
+msgstr "Λανθασμένη προσφορά"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:254
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:332
 msgid "You do not have permission to do this action."
-msgstr ""
+msgstr "Δεν έχετε άδεια να ολοκληρώσετε αυτήν την ενέργεια."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:305
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:383
 msgid "Send payment successful."
-msgstr ""
+msgstr "Επιτυχής αποστολή πληρωμής."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:317
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:396
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:451
 msgid "Invalid paykey."
-msgstr ""
+msgstr "Λάθος paykey."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:437
 msgid "Payment refund successful."
-msgstr ""
+msgstr "Επιτυχής επιστροφή πληρωμής."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:522
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:530
 msgid "Your Paypal Account"
-msgstr ""
+msgstr "Ο "
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:523
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:531
 msgid "Enter your paypal email"
-msgstr ""
+msgstr "Εισάγετε το Paypal email σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:60
 msgid ""
 "The payment is pending because it was made by an eCheck that has not yet "
 "cleared."
 msgstr ""
+"Η πληρωμή σας εκκρεμεί καθώς έγινε από μια eCheck που δεν έχει ακόμα "
+"εκκαθαριστεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:61
 msgid ""
@@ -5010,6 +5024,10 @@ msgid ""
 "this payment. Receiver must manually accept or deny this payment from the "
 "Account Overview."
 msgstr ""
+"Ο παραλήπτης δεν έχει υπόλοιπο στο ορισμένο νόμισμα και δεν έχει ορίσει την "
+"αυτοματη μετατροπή από τις Επιλογές Λήψης Πληρωμών ώστε να δεχτεί αυτήν την "
+"πληρωμή. Ο παραλήπτης θα πρέπει να αποδεχτεί ή να αρνηθεί αυτήν την πληρωμή "
+"χειροκίνητα από την Επισκόπηση Λογαριασμού."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:62
 msgid ""
@@ -5018,71 +5036,79 @@ msgid ""
 "the funds. It can also mean that receiver has reached the monthly limit for "
 "transactions on the account"
 msgstr ""
+"Η πληρωμή εκκρεμεί καθώς έγινε μέσω πιστωτικής κάρτας και ο παραλήπτης "
+"πρέπει να αναβαθμίσεο το λογαριασμο του σε εταιρικό για να λάβει τα χρήματα. "
+"Μπορεί επίσης να σημαίνει ότι ο παραλήπτης έφτασε το μηνιαίο του όριο "
+"συναλλαγών για αυτό το λογαριασμό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:63
 msgid "The payment is pending because the receiver is not yet verified."
-msgstr ""
+msgstr "Η πληρωμή εκκρεμει καθώς ο παραλήπτης δεν είναι ακόμα επιβεβαιωμένος."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:64
 msgid "The payment is pending while it is being reviewed by PayPal for risk."
-msgstr ""
+msgstr "Η πληρωμή εκκρεμεί καθώς ελέγχεται από το PayPal λόγω ρίσκου."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/ppadaptive.php:65
 msgid ""
 " The payment is pending for review. For more information, contact PayPal "
 "Customer Service."
 msgstr ""
+"Η πληρωμή εκκρεμεί για έλεγχο. Για παραπάνω πληροφορίες, επικοινωνήστε με το "
+"Customer Service του Paypal."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:24
 msgid "Using Escrow"
-msgstr ""
+msgstr "Χρησιμοποιώντας την Εγγύηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:27
 msgid "Enabling this will activate the Escrow system."
-msgstr ""
+msgstr "Η ενεργοποίηση θα θέσει σε λειτουργία το σύστημα εγγύησης."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:33
 msgid "use escrow"
-msgstr ""
+msgstr "χρήση εγγύησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:41
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/report-item.php:65
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template-js/modal-accept-bid.php:39
 msgid "Commission"
-msgstr ""
+msgstr "Προμήθεια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:44
 msgid "Decide the amount of commission to be paid for using the service."
 msgstr ""
+"Αποφασίστε το μέγεθος της προμήθειας που θα πληρωθεί για τη χρήση της "
+"υπηρεσίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:50
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:67
 msgid "commission"
-msgstr ""
+msgstr "προμήθεια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:58
 msgid "Commission type"
-msgstr ""
+msgstr "Τύπος προμήθειας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:61
 msgid "Select the type of commission you want to use."
-msgstr ""
+msgstr "Επιλέξτε τον τύπο προμήθειας που θέλετε να χρησιμοποιήσετε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:71
 msgid "By percentage"
-msgstr ""
+msgstr "Ποσοστιαία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:72
 msgid "By specific amount"
-msgstr ""
+msgstr "Συγκεκριμένης τιμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:79
 msgid "Payer of commission"
-msgstr ""
+msgstr "Πληρωτής προμήθειας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:82
 msgid "Select the user role to pay for the commission."
-msgstr ""
+msgstr "Επιλέξτε το ρόλο του χρήστη που θα πληρώσει την προμήθεια."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:88
 msgid "Payer of fees"
