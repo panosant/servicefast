@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-18 01:33+0300\n"
+"PO-Revision-Date: 2016-09-18 13:18+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -4017,6 +4017,11 @@ msgid ""
 "downloadable products and services can compare the hash to determine whether "
 "to provide a product to a customer"
 msgstr ""
+"Στη λειτουργία Demo ο αριθμος παραγγελίας του 2Checkout αλλάζει σε «1» το "
+"οποιο προκαλεί την αποτυχία του hash. Αυτό είναι σκόπιμo, έτσι ώστε οι "
+"έμποροι που πωλούν downloadable προϊόντα και υπηρεσίες που μπορούν να "
+"συγκρίνουν το hash ώστε να αντιληφθούν πότε πρέπει να παρέχουν το προϊόν σε "
+"έναν πελάτη."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:434
 msgid "Discount"
@@ -4024,37 +4029,37 @@ msgstr "Έκπτωση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:435
 msgid "You have use a coupon code to get discount"
-msgstr ""
+msgstr "Έχετε χρησιμοποιήσει ένα κουπόνι για να πάρετε έκπτωση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:525
 msgid "Fraudulent or error!"
-msgstr ""
+msgstr "Δολιοφθορά ή λάθος!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:581
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/payment-visitor.php:582
 msgid "Invalid order ID"
-msgstr ""
+msgstr "Λάθος ID παραγγελίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/visitor-free.php:48
 msgid "Invalid Payment package"
-msgstr ""
+msgstr "Λάνθασμένο πακέτο Πληρωμής"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/visitor-free.php:66
 msgid "Invalid Post ID"
-msgstr ""
+msgstr "Λανθασμένο ID Δημοσίευσης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/visitor-use-package.php:68
 msgid "Invalid Order or Package"
-msgstr ""
+msgstr "Λανθασμένη Παραγγελία ή Πακέτο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payment/visitor-use-package.php:117
 msgid "Invalid Ad ID"
-msgstr ""
+msgstr "Λανθασμένο ID Διαφήμισης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payments.php:82
 #, php-format
 msgid "You purchased package <strong>%s</strong> and have %d post/s left."
-msgstr ""
+msgstr "Αγοράσατε το πακέτο <strong>%s</strong> και απομένουν %d δημοσιεύσεις."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/payments.php:83
 #, php-format
@@ -4062,11 +4067,13 @@ msgid ""
 "You purchased package <strong>%s</strong> and have %d post/s left. Your "
 "posted post is pending until payment."
 msgstr ""
+"Αγοράσατε το πακέτο <strong>%s</strong> και απομένουν %d δημοσιεύσεις. Η "
+"αναρτημένη δημοσίευσή σας εκκρεμεί μέχρι την πληρωμή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:10
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:26
 msgid "SIGN IN WITH FACEBOOK"
-msgstr ""
+msgstr "ΣΥΝΔΕΣΗ ΜΕ FACEBOOK"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:11
 msgid ""
@@ -4076,6 +4083,13 @@ msgid ""
 "password on the form, and a username on the next page to create an account."
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Facebook. Αν εχετε ήδη άλλο λογαριασμό, συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Facebook. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:14
@@ -4083,7 +4097,7 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:66
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/twitter.php:17
 msgid "Please provide a username to continue"
-msgstr ""
+msgstr "Παρακαλούμε εισάγετε όνομα χρήστη για να συνεχίσετε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:48
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:56
@@ -4092,20 +4106,23 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:100
 msgid "Social login is invalid. Please contact administrator for help."
 msgstr ""
+"Η σύνδεση με τα social media είναι λάθος. Επικοινωνείστε με το διαχειριστή "
+"για βοήθεια."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:112
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:120
 msgid "Please login by using your Facebook account again!"
 msgstr ""
+"Παρακαλούμε συνδεθείτε χρησιμοποιώντας ξανά τo λογαριασμό σας στο Facebook."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/facebook.php:195
 msgid "You have logged in successfully"
-msgstr ""
+msgstr "Έχετε συνδεθεί επιτυχώς"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:41
 msgid "SIGN IN WITH GOOGLE+"
-msgstr ""
+msgstr "ΣΥΝΔΕΣΗ ΜΕ GOOGLE+"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:13
 msgid ""
@@ -4115,32 +4132,41 @@ msgid ""
 "password on the form, and a username on the next page to create an account."
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Google+. Αν εχετε ήδη άλλο λογαριασμό, συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Google+. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:27
 msgid "Please enter your Google client id and secret key in setting page!"
 msgstr ""
+"Παρακαλούμε εισάγετε το Google client id και το secret key στη σελίδα "
+"ρυθμίσεων!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:55
 msgid "success"
-msgstr ""
+msgstr "επιτυχία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:115
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:130
 msgid "Error to connect to Google Server!"
-msgstr ""
+msgstr "Λάθος κατα τη σύνδεση στον Google Server!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:126
 msgid "Error to connect to Google"
-msgstr ""
+msgstr "Λάθος κατά τη σύνδεση στο Google"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/google.php:183
 msgid "Error to connect to Google Server"
-msgstr ""
+msgstr "Λάθος κατα τη σύνδεση στον Google Server"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:15
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:48
 msgid "SIGN IN WITH LINKEDIN"
-msgstr ""
+msgstr "ΣΥΝΔΕΣΗ ΜΕ LINKEDIN"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:16
 msgid ""
@@ -4150,30 +4176,37 @@ msgid ""
 "password on the form, and a username on the next page to create an account."
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο LinkedIn. Αν εχετε ήδη άλλο λογαριασμό, συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο LinkedIn. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:31
 msgid "Please enter your Linkedin App id and secret key!"
-msgstr ""
+msgstr "Παρακαλούμε εισάγετε το LinkedIn App id και το secret key!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:107
 msgid "Error to connect to Linkedin server!"
-msgstr ""
+msgstr "Λάθος κατα τη σύνδεση στον Linkedin server!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:111
 msgid "Can not get the access token from Linkedin server!"
-msgstr ""
+msgstr "Αδύνατη η λήψη access token από τον Linkedin server!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:128
 msgid "Error to connect to Linkedin server2!"
-msgstr ""
+msgstr "Λάθος κατα τη σύνδεση στον Linkedin server2!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:132
 msgid "Can not get user information from Linkedin server!"
-msgstr ""
+msgstr "Αδύνατή η ανάκτηση των πληροφοριών χρήστη από τον LinkedIn server!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/linkedin.php:194
 msgid "Error to connect to Linkedin server"
-msgstr ""
+msgstr "Λάθος κατα τη σύνδεση στον Linkedin server"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/settings.php:21
 msgid "Social API"
@@ -4343,34 +4376,36 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:124
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:131
 msgid "Username and password does not matched"
-msgstr ""
+msgstr "Το όνομα χρήστη και ο κωδικός δεν ταιριάζουν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:150
 msgid "Login information is missing"
-msgstr ""
+msgstr "Οι πληροφορίες σύνδεσης λείπουν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:153
 msgid "Please provide a valid email"
-msgstr ""
+msgstr "Παρακαλώ εισάγετε ένα έγκυρο email"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:174
 msgid "Can not authenticate user"
-msgstr ""
+msgstr "Αδύνατη η επαλήθευση χρήστη"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:176
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:271
 msgid "Can't find Social ID"
-msgstr ""
+msgstr "Το Social ID δε βρέθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:215
 msgid ""
 "This email is already existed. If you are the owner, please enter the right "
 "password"
 msgstr ""
+"Αυτο το email υπάρχει ήδη. Αν είναι ο κάτοχος, παρακαλώ εισάγετε το σωστό "
+"κωδικό"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/social_auth.php:263
 msgid "Username is existed, please choose another one"
-msgstr ""
+msgstr "Το όνομα χρήστη υπάρχει ήδη, παρακαλώ επιλέξτε ενα άλλο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:29
 #, php-format
@@ -4382,11 +4417,18 @@ msgid ""
 "create an account.<br />You will only do this step ONCE. Next time, you'll "
 "get logged in right away."
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Facebook. <br />Αν εχετε ήδη άλλο λογαριασμό με %s, συνδεθείτε μέσω "
+"της παρακάτω φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Facebook. "
+"Αν όχι, εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα "
+"όνομα χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα "
+"χρειαστεί να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. <br />Την "
+"επόμενη φορά, θα συνδεθείτε αυτόματα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/twitter.php:17
 msgid "SIGN IN WITH TWITTER"
-msgstr ""
+msgstr "ΣΥΝΔΕΣΗ ΜΕ TWITTER"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:36
 #, php-format
@@ -4398,6 +4440,13 @@ msgid ""
 "account.<br > You will only do this step ONCE. Next time, you'll get logged "
 "in right away.</p>"
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Twitter.<br /> Αν εχετε ήδη άλλο λογαριασμό με %s, συνδεθείτε μέσω "
+"της παρακάτω φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Twitter. "
+"Αν όχι, εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα "
+"όνομα χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα "
+"χρειαστεί να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά.<br > Την επόμενη "
+"φορά, θα συνδεθείτε αυτόματα.</p>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:44
 msgid ""
@@ -4408,6 +4457,13 @@ msgid ""
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 "</p>"
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Google+. Αν εχετε ήδη άλλο λογαριασμό, συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Google+. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα.</p>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:51
 msgid ""
@@ -4418,6 +4474,13 @@ msgid ""
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 "</p>"
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο LinkedIn. Αν εχετε ήδη άλλο λογαριασμό, συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο LinkedIn. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα.</p>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/template.php:58
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/page-profile.php:77
@@ -4502,6 +4565,13 @@ msgid ""
 "password on the form, and a username on the next page to create an account."
 "You will only do this step ONCE. Next time, you'll get logged in right away."
 msgstr ""
+"Φαίνεται να είναι η πρώτη φορά που συνδέεστε χρησιμοποιώντας το λογαριασμό "
+"σας στο Twitter. Αν εχετε ήδη άλλο λογαριασμό , συνδεθείτε μέσω της παρακάτω "
+"φόρμας για να τον συνδέσετε με τον λογαριασμό σας στο Twitter. Αν όχι, "
+"εισάγετε μια διεύθυνση email και έναν κωδικο στη φόρμα, όπως και ένα όνομα "
+"χρήστη στην επόμενη σελίδα για να δημιοθργήσετε ένα λογαριασμό. Θα χρειαστεί "
+"να ολοκληρώσετε αυτή τη διαδικασία μόνο μια φορά. Την επόμενη φορά, θα "
+"συνδεθείτε αυτόματα.</p>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/twitter.php:91
 msgid "Conection with twitter Failed"
@@ -4509,32 +4579,32 @@ msgstr "Η σύνδεση με το Twitter απέτυχε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/social/twitter.php:97
 msgid "Error Receiving Request Token"
-msgstr ""
+msgstr "Λάθος Aνάκτησης Request Token"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template-js/add-pack-form.php:7
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/add-pack-form.php:4
 msgid "Enter a name for your badge"
-msgstr ""
+msgstr "Εισάγετε ένα όνομα για το έμβλημά σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template-js/add-pack-form.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/add-pack-form.php:9
 msgid "Point"
-msgstr ""
+msgstr "Σημείο"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template-js/add-pack-form.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/add-pack-form.php:13
 msgid "Color"
-msgstr ""
+msgstr "Χρώμα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template.php:175
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template.php:218
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template.php:261
 msgid "Load more"
-msgstr ""
+msgstr "Φόρτωση περισσοτέρων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/add-pack-form.php:20
 msgid "Add badge"
-msgstr ""
+msgstr "Προσθέστε έμβλημα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/order-item.php:24
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/admin-project-control.php:42
@@ -4561,21 +4631,21 @@ msgstr "Απέτυχε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/order-item.php:66
 msgid " by "
-msgstr ""
+msgstr "από"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/order-item.php:78
 #, php-format
 msgid "This post has been deleted by %s"
-msgstr ""
+msgstr "Αυτή η δημοσίευση έχει διαγραφεί απο %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/post-item.php:11
 #, php-format
 msgid "%d points"
-msgstr ""
+msgstr "%d πόντοι"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/template/user-item.php:61
 msgid "Comments"
-msgstr ""
+msgstr "Σχόλια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/wc_integration/class-wc-integrate.php:80
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/post-project-step1.php:76
@@ -4587,38 +4657,38 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:48
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/upgrade-account-step4.php:60
 msgid "Select"
-msgstr ""
+msgstr "Επιλογή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/aecore/wc_integration/payment/WC_Integrate_Visitor.php:47
 msgid "Got error, please contact site administrator"
-msgstr ""
+msgstr "Λάθος, παρακαλώ επικοινωνείστε με τον διαχειριστή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:10
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:11
 msgid "Bid plan"
-msgstr ""
+msgstr "Πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:12
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/packages.php:13
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:16
 msgid "Add New"
-msgstr ""
+msgstr "Προσθήκη Νέου"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:13
 msgid "Add New Bid plan"
-msgstr ""
+msgstr "Προσθέστε νέο πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:14
 msgid "Edit Bid plan"
-msgstr ""
+msgstr "Επεξεργαστείτε το πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:15
 msgid "New Bid plan"
-msgstr ""
+msgstr "Νέο πλάνο Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:16
 msgid "All Bid plans"
-msgstr ""
+msgstr "Όλα τα πλάνα Προσφορών"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/bid-plans.php:17
 msgid "View Bid plan"
@@ -5856,11 +5926,11 @@ msgstr "Dashboard"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:508
 msgid "You need an employer account to post a project."
-msgstr "Χρειάζεστε έναν λογαριασμό για να αναρτήσετε μια εργασία."
+msgstr "Χρειάζεστε έναν λογαριασμό πελάτη για να αναρτήσετε μια εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:615
 msgid "Submit place successfull."
-msgstr "Καταχωρήσατε τοποθεσία επιτυχώς."
+msgstr "Επιτυχής καταχώρηση τοποθεσίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:684
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/work-history.php:21
@@ -5874,7 +5944,7 @@ msgstr "ΥΠΟ ΑΜΦΙΣΒΗΤΗΣΗ"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:33
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history.php:18
 msgid "DISPUTED"
-msgstr "ΣΕ ΑΝΤΙΠΑΡΑΘΕΣΗ"
+msgstr "ΑΜΦΙΣΒΗΤΗΘΗΚΕ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/projects.php:690
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template/bid-history.php:15
@@ -6049,7 +6119,7 @@ msgstr "Ανανεώστε"
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/template.php:150
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/template.php:155
 msgid "views"
-msgstr "Προβολές"
+msgstr "προβολές"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:14
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:26
@@ -6066,11 +6136,11 @@ msgstr "Προσθέστε μια νέα Σύσταση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:18
 msgid "Edit Testimonial"
-msgstr "Επεξεργαστείτε Συστάσεις"
+msgstr "Επεξεργαστείτε τη Συστάση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:19
 msgid "New Testimonial"
-msgstr "Νέες Συστάσεις"
+msgstr "Νέα Σύσταση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:20
 msgid "All Testimonials"
@@ -6078,7 +6148,7 @@ msgstr "Όλες οι Συστάσεις"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:21
 msgid "View Testimonial"
-msgstr "Δείτε Συστάσεις"
+msgstr "Δείτε τη Σύσταση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/testimonials.php:22
 msgid "Search Testimonials"
