@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreelanceEngine v1.7.9\n"
 "Report-Msgid-Bugs-To: http://www.enginethemes.com/\n"
 "POT-Creation-Date: 2016-08-16 15:03+0700\n"
-"PO-Revision-Date: 2016-09-18 20:16+0300\n"
+"PO-Revision-Date: 2016-09-19 03:04+0300\n"
 "Last-Translator: Georgios Balafoutis <balafou@yahoo.com>\n"
 "Language-Team: Engine Themes <contact@enginethemes.com>\n"
 "Language: el_GR\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Generator: Poedit 1.8.9\n"
 "X-Poedit-KeywordsList: _e;__;_n;_x\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -5002,7 +5002,7 @@ msgstr "Επιτυχής επιστροφή πληρωμής."
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:522
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:530
 msgid "Your Paypal Account"
-msgstr "Ο "
+msgstr "Ο Paypal Λογαριασμός σας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:523
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/paypal.php:531
@@ -5112,139 +5112,143 @@ msgstr "Επιλέξτε το ρόλο του χρήστη που θα πληρ�
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:88
 msgid "Payer of fees"
-msgstr ""
+msgstr "Ο πληρωτής των εξόδων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:92
 msgid "Project owner"
-msgstr ""
+msgstr "Ο δικαιούχος της εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:102
 msgid "Read more here"
-msgstr ""
+msgstr "Διαβάστε περισσότερα εδώ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:106
 msgid "Gateways"
-msgstr ""
+msgstr "Πύλες"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:136
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:145
 msgid "Manual Transfer"
-msgstr ""
+msgstr "Μεταφορά Χρημάτων κατ’εντολήν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:139
 msgid ""
 "Enabling this will allow you to manually transfer the money when the "
 "project's completed."
 msgstr ""
+"Ενεργοποιώντας το θα μπορείτε να μεταφέρετε τα χρήματα μόνοι σας όταν "
+"ολοκληρωθεί η εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:153
 msgid "Paypal Settings"
-msgstr ""
+msgstr "Ρυθμίσεις Paypal"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:157
 msgid ""
 "You need to apply for PayPal Adaptive API and configure correctly to use "
 "this feature."
 msgstr ""
+"Πρέπει να αιτηθείτε για PayPal Adaptive API και να το ρυθμίσετε σωστά ώστε "
+"να χρησιμοποιήσετε το PayPal"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:163
 msgid "Your paypal business email"
-msgstr ""
+msgstr "Το email σας στο paypal"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:170
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:171
 msgid "Paypal fees"
-msgstr ""
+msgstr "Έξοδα Paypal"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:176
 msgid "Primary receiver pays all fees"
-msgstr ""
+msgstr "Ο πρώτος παραλήπτης πληρώνει όλα τα έξοδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:177
 msgid "Each receiver pays their own fee"
-msgstr ""
+msgstr "Κάθε παραλήπτης πληρώνει μόνο τα δικά του έξοδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:178
 msgid "Secondary receivers pay all fees"
-msgstr ""
+msgstr "Οι δεύτεροι παραλήπτες πληρώνουν όλα τα έξοδα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:185
 msgid "Paypal API"
-msgstr ""
+msgstr "Paypal API"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:197
 msgid "Your paypal API username"
-msgstr ""
+msgstr "Your paypal API username"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:204
 msgid "Your paypal API password"
-msgstr ""
+msgstr "Your paypal API password"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:211
 msgid "Your paypal API signature"
-msgstr ""
+msgstr "Your paypal API signature"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:218
 msgid "Your Paypal Adaptive AppID"
-msgstr ""
+msgstr "Your Paypal Adaptive AppID"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:242
 msgid "Escrow"
-msgstr ""
+msgstr "Χρηματική εγγύηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:243
 msgid "ESCROW CONFIGURATION"
-msgstr ""
+msgstr "ΡΥΘΜΙΣΕΙΣ ΧΡΗΜΑΤΙΚΗΣ ΕΓΓΥΗΣΗΣ"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/escrow/settings.php:247
 msgid "Setting up a trustworthy environment for freelancers and employers."
-msgstr ""
+msgstr "Επιλέγοντας ένα αξιόπιστο περιβάλλον για επαγγελματίες και πελάτες."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/index.php:55
 msgid "Set button style for tab"
-msgstr ""
+msgstr "Επιλέξτε στυλ κουμπιού για την καρτέλα"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/invites.php:16
 #, php-format
 msgid "Invite %s to bid project"
-msgstr ""
+msgstr "Προσκαλέστε %s να κάνει προσφορά στην εργασία"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:26
 msgid "A new payment notification."
-msgstr ""
+msgstr "Μια νέα ειδοποίηση πληρωμής."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:48
 #, php-format
 msgid "Your project posted on %s has a new bid."
-msgstr ""
+msgstr "Η εργασία σας, που αναρτήθηκε στις %s, έχει μια νέα προσφορά."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:68
 #, php-format
 msgid "There is a Freelancer canceled a bid on Your project %s."
-msgstr ""
+msgstr "Ένας επαγγελματίας ακύρωσε την προσφορά του στην εργασία σας %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:92
 msgid "Project you joined has a review."
-msgstr ""
+msgstr "Η εργασία στην οποία συμμετέχετε έχει μια αξιολόγηση."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:114
 msgid "Your posted project has a review."
-msgstr ""
+msgstr "Η αναρτημένη εργασία σας έχει μια αξιολόγηση."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:142
 #, php-format
 msgid "You have a new invitation to join project from %s."
-msgstr ""
+msgstr "Έχετε μια νέα πρόσκληση να συμμετάσχετε στην εργασία από %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:189
 #, php-format
 msgid "Your bid on project %s has been accepted."
-msgstr ""
+msgstr "Η προσφορά σας για την εργασία %s έγινε αποδεκτή."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:222
 #, php-format
 msgid "You have a new message on %s workspace."
-msgstr ""
+msgstr "Έχετε ένα νέο μήνυμα στο %s περιβάλλον εργασίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:233
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:281
@@ -5254,47 +5258,47 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:453
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:218
 msgid "Workspace"
-msgstr ""
+msgstr "Περιβάλλον Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:255
 #, php-format
 msgid "Have a new report on project %s."
-msgstr ""
+msgstr "Έχετε μια νέα αναφορά στην εργασία %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:313
 #, php-format
 msgid "Project %s was closed."
-msgstr ""
+msgstr "Η εργασία %s έκλεισε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:359
 #, php-format
 msgid "User quit your project %s."
-msgstr ""
+msgstr "Ο επαγγελματίας σταμάτησε την εργασία σας %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:408
 #, php-format
 msgid "You have got a refund on project %s."
-msgstr ""
+msgstr "Έχετε μια επιστροφή χρημάτων για την εργασία %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:425
 #, php-format
 msgid "Project %s you worked on has refunded."
-msgstr ""
+msgstr "Τα χρήματα για την εργασία %s στην οποία δουλέψατε έχουν επιστραφεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:447
 #, php-format
 msgid "Your presend payment on project %s has been transfer."
-msgstr ""
+msgstr "Η προπληρωμή σας σχετικά με την εργασία %s έχει μεταφερθεί."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:464
 #, php-format
 msgid "You have been sent payment base on project %s."
-msgstr ""
+msgstr "Σας έχει αποσταλεί η πληρωμή σχετικά με την εργασία %s."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:482
 #, php-format
 msgid "Project %s has been completed and money has transfered."
-msgstr ""
+msgstr "Η εργασία %s μόλις ολοκληρώθηκε και τα χρήματα μεταφέρθηκαν."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:483
 #, php-format
@@ -5302,11 +5306,15 @@ msgid ""
 "Project %s has been completed and money has transfered. You can check "
 "workspace and project details"
 msgstr ""
+"Η εργασία %s μόλις ολοκληρώθηκε και τα χρήματα μεταφέρθηκαν. Μπορείτε να "
+"ελέγξετε το περιβάλλον εργασίας και τις πληροφορίες της εργασίας."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:485
 #, php-format
 msgid "Project %s has been completed and waiting your confirm."
 msgstr ""
+"Η εργασία %s μόλις ολοκληρώθηκε και βρίσκεται σε αναμονή επιβεβαίωσης από "
+"εσάς."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:486
 #, php-format
@@ -5314,17 +5322,19 @@ msgid ""
 "Project %s has been completed. Please check it and transfer money to "
 "freelancer."
 msgstr ""
+"Η εργασία %s μόλις ολοκληρώθηκε. Παρακαλώ ελέγξτε την και μεταφέρετε τα "
+"χρήματα στον επαγγελματία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/mailing.php:552
 msgid "New Project For You Today!"
-msgstr ""
+msgstr "Νέα Εργασία Για Εσάς Σήμερα!"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:53
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/single-project.php:74
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-detail-info.php:67
 #, php-format
 msgid "%s ago"
-msgstr ""
+msgstr "%s πριν"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:74
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/project-workspaces.php:98
@@ -5333,22 +5343,25 @@ msgid ""
 "<span class=\"author-name\">%s</span> marked <span class=\"\">\"%s\"</span> "
 "as <span class=\"status\">%s</span><span class=\"changelog-time\" >%s</span>"
 msgstr ""
+"<span class=\"author-name\">%s</span> σημειώθηκε <span class=\"\">\"%s\"</"
+"span> ως <span class=\"status\">%s</span><span class=\"changelog-time\" >%s</"
+"span>"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:129
 msgid "Error! Can not specify which project you are working on."
-msgstr ""
+msgstr "Λάθος! Δεν μπορείτε να προσδιορίσετε σε ποια εργασία δουλεύετε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:136
 msgid "You cannot send an empty message."
-msgstr ""
+msgstr "Δεν μπορείτε να στείλετε ένα άδειο μήνυμα."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:143
 msgid "You have to login."
-msgstr ""
+msgstr "Πρέπει να συνδεθείτε."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:160
 msgid "You are not working on this project."
-msgstr ""
+msgstr "Δεν δουλεύετε σε αυτήν την εργασία."
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/messages.php:297
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/template-js/user-bid-item.php:60
@@ -5358,126 +5371,126 @@ msgstr ""
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/user-bid-item.php:55
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/template/work-history-item.php:88
 msgid "Open Workspace"
-msgstr ""
+msgstr "Άνοιγμα Περιβάλλοντος Εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:16
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:27
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/mobile/header.php:132
 msgid "Notifications"
-msgstr ""
+msgstr "Ειδοποιήσεις"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:18
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:19
 msgid "Add New notification"
-msgstr ""
+msgstr "Προσθήκη Νέας ειδοποίησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:20
 msgid "Edit notification"
-msgstr ""
+msgstr "Επεξεργασία ειδοποίησης"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:21
 msgid "New notification"
-msgstr ""
+msgstr "Νέα ειδοποίηση"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:22
 msgid "View notification"
-msgstr ""
+msgstr "Προβολή ειδοποιήσεων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:23
 msgid "Search notifications"
-msgstr ""
+msgstr "Αναζήτηση ειδοποιήσεων"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:24
 msgid "No notifications found"
-msgstr ""
+msgstr "Δεν βρέθηκαν ειδοποιήσεις"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:25
 msgid "No notifications found in Trash"
-msgstr ""
+msgstr "Δεν βρέθηκαν ειδοποιήσεις στα Σκουπίδια"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:26
 msgid "Parent notification:"
-msgstr ""
+msgstr "Γενική ειδοποίηση:"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:143
 #, php-format
 msgid "New bid on %s"
-msgstr ""
+msgstr "Νέα προσφορά στην εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:167
 #, php-format
 msgid "New project %s is created"
-msgstr ""
+msgstr "Νέα εργασία %s δημιουργήθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:192
 #, php-format
 msgid "project %s is renewed"
-msgstr ""
+msgstr "η εργασία %s ανανεώθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:223
 #, php-format
 msgid "Bid on project %s was accepted"
-msgstr ""
+msgstr "Η προσφορά στην εργασία %s έγινε αποδεκτή"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:250
 #, php-format
 msgid "Project %s was completed"
-msgstr ""
+msgstr "Η εργασία %s ολοκληρώθηκε"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:280
 #, php-format
 msgid "%s reviewed project %s"
-msgstr ""
+msgstr "%s αξιολόγησε την εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:302
 #, php-format
 msgid "New message on project %s"
-msgstr ""
+msgstr "Νέο μήνυμα στην εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:347
 #, php-format
 msgid "%s have a new invite from %s"
-msgstr ""
+msgstr "%s έχτε μια νέα πρόσκληση από %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:452
 #, php-format
 msgid "%s bid for your project %s"
-msgstr ""
+msgstr "%s προσφορά για την εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:504
 #, php-format
 msgid "Your bid at %s was accepted by %s"
-msgstr ""
+msgstr "Η προσφορά σας στις %s έγινε απόδεκτή από %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:520
 #, php-format
 msgid "%s you worked on was completed by %s"
-msgstr ""
+msgstr "%s που εργαστήκατε ολοκληρώθηκε %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:534
 #, php-format
 msgid "%s has reviewed on %s"
-msgstr ""
+msgstr "%s αξιολόγησε στην εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:553
 #, php-format
 msgid "%s sent you a message on %s workspace"
-msgstr ""
+msgstr "%s σας έστειλε ένα μήνυμα στο %s περιβάλλον εργασίας"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:567
 #, php-format
 msgid "You have an invite from %s"
-msgstr ""
+msgstr "Έχτε μια πρόσκληση από %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:575
 #, php-format
 msgid "%s invited you to join project %s"
-msgstr ""
+msgstr "%s σας προσκάλεσε να συμμετάσχετε στην εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:594
 #, php-format
 msgid "%s has comment on %s"
-msgstr ""
+msgstr "%s σχολίασε στην εργασία %s"
 
 #: D:\YOUNGWORLD\YW.THEME\FreelanceEngine\freelanceengine-v1.7.9\freelanceengine/includes/notification.php:601
 #, php-format
